@@ -1,0 +1,7 @@
+interface:
+  display_name: "B.B.BAM 日常供物机器"
+  short_description: "把食物、饮品与日常小物唤醒成有情绪价值的高级审美机器"
+  brand_color: "#FFB8C8"
+  default_prompt: "Use $bbbam-offering-machine to turn this casual food or object photo into a refined emotional offering machine."
+policy:
+  allow_implicit_invocation: true

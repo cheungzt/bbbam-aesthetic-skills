@@ -1,0 +1,7 @@
+interface:
+  display_name: "B.B.BAM 山海游乐回路"
+  short_description: "把随手拍风景唤醒成清透、可游玩的当代国风空间世界"
+  brand_color: "#79D8D1"
+  default_prompt: "Use $bbbam-shanshui-circuit to turn this casual landscape photo into a clear contemporary shanshui amusement circuit."
+policy:
+  allow_implicit_invocation: true
