@@ -13,21 +13,25 @@ Replace:
 
 - all photographic textures and local surface detail;
 - major geometry with continuous translucent soft-body equivalents articulated by a controlled middle layer of connected folds, terraces, and inset channels;
-- original infrastructure with one source-derived pearl circuit ribbon.
+- original directional lines with an optional source-derived pearl circuit, embedded contour, or liquid current; omit a route entirely when no meaningful source line exists.
 
 Transform the full visible world, not a selected object.
 
-## 2. Map Five Source Zones
+## 2. Map Source Regions Before Objects
+
+First make a 4–5 region screen map. Preserve each region's approximate position, extent, overlap, horizon relationship, and visual weight. This is mandatory before materials.
+
+Then map the zones:
 
 | Source zone | What to identify | Fixed-style translation |
 |---|---|---|
 | Hero | largest or most characteristic body | 1–3 smooth colored translucent primary formations with 3–8 connected folds/ridges |
 | Field | sky, sea, sand, plaza, or open void | one broad bright liquid, mist, pearly plane, or light core with 2–4 calm contour currents |
-| Circuit | railing, shore, road, stair, roofline, trunks | one continuous milk-pearl ribbon with long radius turns and source-derived joins |
+| Optional movement | railing, shore, road, stair, roofline, trunks, water edge | a pearl ribbon, embedded contour, current, or nothing — only if this line is truly present |
 | Supports | repeated towers, rocks, plants, columns | a restrained clear rhythm of broad connected translucent forms; never micro-objects |
-| Signal | a small warm highlight in source or composition | one peach/coral/amber/lilac focus |
+| Accent | source-derived focal feature only | optional; never a default sphere/mascot/prop |
 
-Transform at least hero, field, and circuit together.
+Transform hero, field, and supports together. Add movement only when the source justifies it.
 
 ## 3. Morphological Echoes
 
@@ -45,17 +49,18 @@ Use this structure:
 
 > “Image 1 is the source blueprint: preserve its camera, crop, horizon, topology, relative scale, source palette, and [semantic anchors]. Image 2 is the fixed B.B.BAM Shanshui Circuit style reference: use its full-world transformation strength and its luminous material grammar — continuous colored translucent soft-body volumes, one milk-pearl ribbon circuit, and a broad bright liquid/mist core. Ignore any UI or text in Image 2.
 >
-> Rebuild more than 80% of Image 1 as one complete, luminous, premium C4D world. Map [hero] to [1–3 continuous translucent hero forms with 3–8 connected contour folds/ridges], [field] to [one broad liquid/mist/pearl plane with 2–4 calm current bands], and [source line] to [one smooth pearl ribbon circuit]. Transform [supports] into [a restrained source-derived rhythm of broad connected equivalents]. Use [source-led palette]. Preserve original category logic; do not retain photographic texture. Large-scale, articulated, calm, thick smooth surfaces with long unbroken highlights and controlled caustics. Create richness through continuous terraces, lobes, embedded channels, membrane overlaps, and broad strata. Absolutely no separate fragments, facets, leaf fields, pebbles, bubbles, capsules, droplets, crystalline detail, grain, cellular textures, or dense supports. It must read as the same B.B.BAM series as the reference at thumbnail size.”
+> Rebuild more than 80% of Image 1 as one complete, luminous, premium C4D world. Map [hero] to [1–3 continuous translucent hero forms with 3–8 connected contour folds/ridges], [field] to [one broad liquid/mist/pearl plane with 2–4 calm current bands], and [source line] to [an optional pearl ribbon or embedded contour only if it exists]. Transform [supports] into [a restrained source-derived rhythm of broad connected equivalents]. Keep [sky/horizon/middle/foreground] in the same approximate frame regions and scale as Image 1. Use [source-led palette]. Preserve original category logic; do not retain photographic texture. Large-scale, articulated, calm, thick smooth surfaces with long unbroken highlights and controlled caustics. Create richness through continuous terraces, lobes, embedded channels, membrane overlaps, and broad strata. Absolutely no separate fragments, facets, leaf fields, pebbles, bubbles, capsules, droplets, crystalline detail, grain, cellular textures, or dense supports. It must read as the same B.B.BAM series as the reference at thumbnail size.”
 
 ## 5. Rejection Tests
 
 Reject if any is true:
 
-- hiding the circuit reveals a largely unchanged photo;
+- removing an optional circuit/contour reveals an unrelated generic world or a composition that no longer matches the source;
 - the output does not visibly share the reference's continuous-soft-body / pearl-ribbon / luminous-core material grammar;
 - source categories have been changed without cause;
 - the output adds unrelated flowers, plants, mountains, pagodas, dragons, or random props;
-- the route becomes a generic white S-shaped boardwalk unrelated to a source line;
+- a route, loop, sphere, vehicle, mascot, or prop is added by default rather than sourced from Image 1;
+- the regional layout, horizon, foreground weight, or main land/water relationship differs materially from Image 1 without source justification;
 - the composition has many equal elements and no dominant hero;
 - any large surface is faceted, tiled, scaly, rippled with noisy detail, granular, crowded by small translucent pieces, or reduced to an empty featureless plane;
 - vegetation is rendered as many leaf-like objects, stalks, drops, capsules, or blobs instead of one continuous soft growth mass;
