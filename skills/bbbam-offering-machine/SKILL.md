@@ -1,45 +1,72 @@
 ---
 name: bbbam-offering-machine
-description: Transform casual photos of food, drinks, desserts, gifts, souvenirs, cosmetics, toys, or small daily objects into a refined B.B.BAM Offering Machine. Use when the user asks for 日常供物机器、Offering Machine, or wants an ordinary object to become an emotional energy core with a restrained apparatus derived from its packaging, straw, crust, steam, utensil, handle, cable, fold, or shadow. The result must remain appetizing or emotionally attractive and must not become a generic sci-fi machine or filter.
+description: Transform casual photos of food, drinks, desserts, gifts, souvenirs, cosmetics, toys, or small daily-object constellations into refined B.B.BAM Offering Machines. Use for 日常供物机器、Offering Machine、Market Offering, or when ordinary pleasures should become a coherent kinetic ritual system. Preserve appetizing or emotionally attractive hero objects while deriving an active causal circuit—collect, lift, circulate, portion, multiply, dispense, return—from their packaging, tray, straw, spoon, rim, crust, steam, handle, cable, fold, repetition, or shadow. Reject product redesign, appliance styling, generic sci-fi machinery, and filter-like retouching.
 ---
 
 # B.B.BAM Offering Machine
 
-Turn an ordinary object into the emotional center of a small designed world. The object is not decoration inside a machine; the machine is the object's own desire, memory, ritual, or pleasure made spatial.
+Turn an ordinary pleasure into a small ceremonial world that visibly performs its emotional promise. Do not decorate an object with machinery. Make the source object reveal how comfort, craving, reward, focus, memory, or companionship is produced, circulated, shared, and returned.
+
+## Core Contract
+
+Require all four:
+
+1. **Hero constellation**
+   - Preserve one object or a related group as the unmistakable emotional core.
+   - Allow a cup plus pastry, laptop plus coffee, tray plus repeated food, or object plus hand to function as one hero constellation.
+   - Keep the hero real, tactile, recognizable, and desirable.
+
+2. **Causal ritual**
+   - Write one process sentence before generating:
+     - “The machine [collects] X, [moves] it through Y, [portions/transforms] it at Z, then [dispenses/returns] W.”
+   - Show at least three linked actions. A ring, light, pedestal, gauge, or tube without a visible role is insufficient.
+   - Make the apparatus appear caught mid-process, not posed as a finished appliance.
+
+3. **Source-derived mechanisms**
+   - Derive every major mechanism from visible source material: tray, plate, cup, straw, spoon, lid, crust, repeated pieces, steam, handle, keyboard, mouse, cable, wrapper, reflection, fold, or shadow.
+   - Change scale and function boldly, but preserve the derivation.
+   - Use replication or miniaturized “offerings” only when the source already contains repetition or when the hero visibly produces them.
+
+4. **Composed abundance**
+   - Build one coherent apparatus with 3–6 connected mechanisms.
+   - Organize three scales: hero core, functional mechanisms, small outputs/signals.
+   - Let complexity form a readable loop around the hero. Keep one quiet base or field so the system remains legible.
+   - Remove any part that does not participate in the process.
 
 ## Workflow
 
-1. Inspect the source and name the central object.
-2. Choose one emotional engine: comfort, celebration, nostalgia, craving, reward, companionship, or daily ritual.
-3. Map existing parts to functions: packaging to enclosure, straw or handle to conduit, crust or rim to orbit, steam or reflection to signal, crumbs or accessories to satellites.
-4. Select a restrained material and color system using `references/transformation-rules.md`.
-5. Generate or edit the image with the strongest available image-generation tool.
-6. Review at thumbnail and full size. Revise if the object loses appetite, identity, or dominance.
-7. Deliver the source and result as a visible before/after pair. Briefly name the emotional engine and the source-derived mechanisms.
+1. Inspect the source and name the hero constellation.
+2. Choose one emotional promise: comfort, celebration, nostalgia, craving, reward, companionship, focus, preservation, or daily ritual.
+3. Read all reference files and inspect the positive example.
+4. Map at least three visible source parts to distinct functions.
+5. Write the causal ritual sentence.
+6. Choose one base/stage and 2–3 material families.
+7. Generate the system mid-operation with clear flows, outputs, and hierarchy.
+8. Review:
+   - **Hero test:** does the original pleasure remain dominant and desirable?
+   - **Causality test:** can a viewer follow at least three linked actions?
+   - **Derivation test:** can every major mechanism be traced to the source?
+   - **Ritual test:** does it feel emotionally ceremonial rather than industrial?
+   - **Swap test:** would another object require a different machine?
+9. Deliver a before/after pair. Name the emotional promise, causal ritual, and source-to-function mappings.
 
-## Non-Negotiable Composition
+## Composition and Material
 
-- Keep the original object as the unmistakable hero, normally occupying 55–75% of visual attention.
-- Build one main apparatus gesture: orbit, cradle, fountain, stage, dispenser, portal, or circulation loop.
-- Derive all important parts from elements already present in the source. Do not add flowers, temples, creatures, religious altars, or unrelated props.
-- Transform meaning and spatial behavior, not only material or color.
-- Use no more than three material families and four color roles.
-- Preserve food appeal, human warmth, and tactile desire. Do not sterilize everything into chrome and glass.
-- Keep the background quiet enough that the hero reads instantly.
+- Give the hero constellation 45–65% of visual attention, functional mechanisms 25–40%, and outputs/signals 5–15%.
+- Use pedestals, rails, scoops, loops, dispensers, fountains, gates, cradles, conveyors, and return channels only as functional verbs inside one process.
+- Preserve food texture, skin, paper, ceramic, fabric, or other tactile truth.
+- Pair the hero with two apparatus materials at most: polished steel, clear/frosted acrylic, pearl ceramic, soft enamel, satin aluminum, resin, paper, or liquid membrane.
+- Keep color fresh and source-led. Let warm edible/object color travel through a cooler precise apparatus.
+- Use bright diffuse daylight or a soft studio field with premium C4D clarity and physically coherent shadows.
 
-## Visual Direction
+## Reject
 
-Read `references/visual-system.md` for the shared B.B.BAM aesthetic and `references/transformation-rules.md` for emotional mapping, material selection, prompting, and rejection criteria. Use `references/examples.md` when presenting or testing the Skill.
+Reject and rebuild when:
 
-## Quality Gate
-
-Approve only when all are true:
-
-- The original object remains immediately recognizable.
-- The apparatus expresses a specific emotion, not generic futurism.
-- At least two mechanisms visibly derive from source elements.
-- The hero dominates at thumbnail size and the supporting forms feel intentional.
-- Color is fresh and controlled; the image is clear, premium, and inviting.
-- The result is not interchangeable with the Shanshui Circuit or a transparent-glass preset.
-
-Reject and revise when the output looks like ordinary product retouching, a busy mechanical collage, a shrine cliché, a dark cyberpunk prop, or an inedible plastic replica.
+- the result is an upgraded product, charger, storage tray, coffee gadget, laptop accessory, or ordinary appliance;
+- the apparatus only frames, lights, or measures the hero;
+- random pipes, cables, or rings appear without a source origin and process role;
+- the image has no visible input, movement, transformation, output, or return;
+- complexity becomes mechanical clutter, steampunk collage, chrome tentacles, or tiny meaningless parts;
+- the result resembles a shrine cliché, religious altar, dark cyberpunk prop, sterile laboratory, or transparent-glass preset;
+- food becomes plastic, the object loses warmth, or the machine could be swapped onto any other object unchanged.
