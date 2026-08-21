@@ -3,45 +3,39 @@
 ## Required Images
 
 - Source blueprint: `../assets/shanshui-before.png`
-- Transformation example: `../assets/shanshui-after.png`
+- Fixed-style reference: `../assets/shanshui-after.png`
 
-View and supply both images. The bundled result is a reference for transformation scale, complete-world construction, hierarchy, and finish. It is **not** a universal palette, transparent-material, mountain-form, or route template.
+View and supply both images. The bundled result is not merely a reference for polish; it is the fixed B.B.BAM visual language:
 
-## Bay-Specific World Thesis
+- luminous translucent soft-body landforms;
+- milk-pearl circuit;
+- saturated clear liquid center;
+- broad calm forms and bright air;
+- a complete rebuilt world rather than photo retouching.
 
-> “An ordinary bay becomes a soft translucent basin-world through the original mountain rhythm, water opening, and foreground railing.”
+## Bay Mapping
 
-This thesis belongs to a bay; do not reuse it for a city, coast, or palm beach.
+| Source element | B.B.BAM transformation |
+|---|---|
+| mountain ridge | layered translucent aqua/jade soft-body landform |
+| sea opening | saturated luminous liquid core |
+| foreground railing | continuous milk-pearl amusement circuit |
+| vegetation and ground | simplified translucent support masses |
+| sky | clear blue atmospheric field |
 
-## What the Example Preserves
+The bay is not copied as a preset. Its **mapping logic** is used: each major original component becomes a visibly related part of the same fixed material system.
 
-- viewpoint and horizon;
-- ridge rhythm around the bay;
-- central water opening;
-- foreground railing as a directional source line;
-- near–middle–far depth.
+## Apply the Same System to Other Sources
 
-## What It Rebuilds
-
-- mountain → translucent soft-body landform;
-- sea → saturated liquid core;
-- railing → continuous circuit;
-- vegetation → source-derived abstract support;
-- ground and infrastructure → designed structural surfaces.
-
-Transparent mountain material is appropriate here because the source already contains a mountain landform and open water. It is not a default requirement for every source.
-
-## Apply the Mechanism to Other Sources
-
-- **City:** preserve the city as layered architecture or urban screen; derive movement from roofs, stairs, roads, and facade seams. Do not turn the skyline into mountains.
-- **Rock coast:** retain mineral and tide identity; prefer porous stone, wet polish, and embedded tidal routes over suspended promenades.
-- **Palm beach:** retain vertical trunk/canopy rhythm; use membrane, woven, ceramic, or resin systems with a threaded path.
-- **Garden terrain:** retain slope and growth layers; use one translucent hero only when it carries the focal role.
+- **City:** preserve urban vertical rhythm; rebuild towers as translucent architectural bodies; convert stairs, roofs, roads, or facade seams to the pearl circuit; tune colors toward indigo/lilac/peach.
+- **Rock coast:** preserve rock-and-tide composition; rebuild rocks as soft seafoam minerals, surf as liquid core, and shoreline as a restrained pearl route; tune colors toward mist blue, pearl sand, and coral.
+- **Palm beach:** preserve trunk spacing, canopy rhythm, sea horizon, and distant city; rebuild palms as translucent membrane canopies on clear columns, sand as pearly warm field, and shoreline/trunk rhythm as a pearl circuit; tune colors toward aqua, lime, cyan, and apricot.
+- **Green terrain:** preserve the ridge and layered growth; rebuild the landform in jade/tea translucent soft bodies, the open field in cyan liquid/mist, and an existing edge as the pearl circuit.
 
 ## Approve Only When
 
-- the image is a new whole world;
-- at least three zones transform together;
-- semantic anchors remain legible;
-- material contrast and route morphology are source-specific;
-- the result cannot be reduced to photo plus walkway or generic aqua glass.
+- a thumbnail still reads as B.B.BAM Shanshui Circuit;
+- the original source is structurally recognizable but visually rebuilt;
+- palette follows the source without breaking the common material language;
+- hero, field, circuit, and supports are traceable to source elements;
+- the result feels like an enterable, emotionally rewarding world rather than a photo effect.
