@@ -1,47 +1,85 @@
 # Shanshui Circuit Transformation Rules
 
-## Source Map
+## 1. Build a Whole-Scene Source Map
 
-Before generating, write a compact map:
+Map every major visible zone before generating:
 
-| Source feature | World role |
+| Source zone | Required transformed role |
 |---|---|
-| Largest mountain, building, tree mass, or slope | Hero landform or spatial body |
-| Road, railing, shoreline, river, ridge, shadow edge | Main circuit |
-| Water, sky, plaza, wall, or blank ground | Quiet field or reflective void |
-| Existing small repeated elements | Signals, gates, or rhythm markers |
+| Largest mountain, building, tree mass, slope, or coastline | Dominant artificial landform or spatial body |
+| Water, plaza, sand, blank ground, or large opening | Interactive liquid core, luminous basin, mist field, or calm designed void |
+| Railing, road, shoreline, river, ridge, shadow edge, bridge, or facade line | One continuous amusement circuit |
+| Existing vegetation, rocks, urban blocks, or repeated elements | Abstract supporting masses, gates, rhythm markers, or layered distance |
+| Sky and atmosphere | Relit atmospheric field supporting the new material world |
 
-If the source offers no continuous route candidate, use another photo or state that this Skill is a weak fit.
+Do not generate until at least three major source zones have defined transformations.
 
-## Transformation Strength
+## 2. Separate Topology from Surface Fidelity
 
-Aim for 65–80% world transformation while retaining the source camera, silhouette logic, and place identity. Do not settle for a color grade. Do not erase the source into an unrelated fantasy scene.
+Retain topology:
 
-## Spatial Grammar
+- camera, crop, horizon, and perspective;
+- relative positions and scale relationships;
+- silhouette rhythm;
+- near–middle–far organization.
 
-- Translate Chinese aesthetics through scroll-like depth, borrowed scenery, sequential reveal, void/solid rhythm, and a path that bends around or through the hero.
-- Make the amusement quality come from motion and invitation: glide, orbit, climb, dip, pass through, emerge.
-- Choose one circuit action only. Do not combine roller coaster, water slide, cable car, carousel, and maze.
+Replace surface fidelity:
 
-## Material Choice
+- photographic plants, rock, concrete, facade, sand, road, railing, and water;
+- local texture, material, lighting response, and environmental rendering;
+- literal source objects when their world role has been transferred.
 
-Choose material from the source rather than applying glass to everything:
+Treat the input as a blueprint for a new world. Do not treat it as a photograph that needs minor beautification.
 
-- Water or mist source: liquid membrane + pearl ceramic.
-- Concrete or architecture source: satin aluminum + celadon enamel.
-- Green terrain source: cloudy resin + soft mineral stone.
-- Night or reflective source: pale luminous acrylic + restrained metal; keep the scene bright enough to feel inviting.
+## 3. Use the Target Example Correctly
 
-## Prompt Skeleton
+Load `../assets/shanshui-after.png` and supply it to the image-generation tool alongside the source.
 
-Include: source preservation, source-to-world map, one circuit action, one hero, two materials, four color roles, lighting, and explicit exclusions.
+- Source image = composition and topology truth.
+- Target example = transformation-strength, material-language, color-quality, and world-completeness truth.
+- Do not copy the target example's exact mountain count, loop shape, viewpoint, or object placement.
+- Apply its grammar: broad transformed masses, colored translucent depth, a coherent liquid field, one circuit, clean hierarchy, and full environmental reconstruction.
 
-Example: "Preserve the original bay viewpoint, mountain silhouette, shoreline, and foreground railing. Transform the railing and shoreline into one continuous celadon amusement loop that glides around a pearl-mineral mountain body; keep the water as a quiet mist-blue void. One dominant hero, broad clean forms, bright diffuse daylight, refined C4D material fidelity, fresh restrained palette. No pagoda, lantern, random flowers, miniature rides, dark cyberpunk, excessive glass, or filter-like color grading."
+## 4. Build Three Interdependent Systems
 
-## Rejection Tests
+### Hero landform
 
-- Cover the circuit: if the image is only a stylized landscape, reject.
-- Compare silhouettes: if the place is no longer recognizable, reject.
-- Count focal objects: if more than three compete, simplify.
-- Trace each new form to the source: if it has no origin, remove it.
-- Swap in a different photo mentally: if the same prompt would produce nearly the same world, strengthen source-specific mapping.
+Transform the largest source mass completely. Preserve its positional and silhouette rhythm, but replace its material, volume language, and surface logic. Possible roles include translucent soft-body mountain, cloudy mineral body, suspended terrain shell, layered gel architecture, or luminous sculptural coastline.
+
+### World field
+
+Transform water or ground into an active spatial field. It may become a saturated liquid core, rippling membrane, reflective basin, mist void, or soft luminous ground. It must contribute to the concept rather than remain untouched background.
+
+### Circuit
+
+Derive one continuous route from an existing line. Choose one action: glide, orbit, climb, dip, pass through, or emerge. The circuit should connect hero and field without becoming an isolated slide or promenade.
+
+## 5. Adapt to the Source
+
+- Mountain or bay: ridge becomes soft-body landform; water becomes liquid core; railing or shoreline becomes circuit.
+- City: building masses become layered artificial peaks or sculptural blocks; plaza or sky opening becomes field; facade edges, elevated roads, or rooflines become circuit.
+- Rocky coast: rock groups become mineral or gel islands; surf becomes liquid membrane; coast edge becomes circuit.
+- Palm beach: palm trunks and crowns become abstract vertical landform rhythm; sand and sea become two contrasting fields; shoreline or trunk sequence becomes circuit. Do not simply add a boardwalk.
+
+Do not force the same S-curve or mint-and-white material recipe onto every source.
+
+## 6. Prompt Contract
+
+Use this structure:
+
+“Treat Image 1 as a spatial blueprint, not a photograph to preserve. Keep its camera, framing, horizon, relative placement, scale relationships, and silhouette rhythm. Use Image 2 as the visual truth for transformation strength, world completeness, translucent colored soft-body material language, luminous controlled color, and premium C4D finish; do not copy Image 2's exact layout.
+
+Rebuild the entire visible environment as one coherent contemporary Chinese shanshui amusement world. [Source-specific hero mapping]. [Source-specific field mapping]. [Source-specific circuit mapping]. Reinterpret the remaining source zones into quiet supporting masses derived from what is already present. Replace the original photographic material identity of terrain, vegetation, water, ground, infrastructure, and architecture. Use a few broad forms, one hero, one circuit action, bright coherent light, and generous quiet space.
+
+The result must read as a wholly new 3D world at thumbnail size. Reject photo plus pathway, local installation, filter, generic transparent future city, literal Chinese symbols, unrelated flora, scattered rides, filigree, excessive chrome, cheap plastic, dark mood, or five-color clutter.”
+
+## 7. Rejection Tests
+
+- **Thumbnail test:** if it still reads as a photograph first, reject.
+- **Three-zone test:** if hero, field, and circuit have not all changed, reject.
+- **Cover test:** hide the circuit; if the rest is almost the original photo, reject.
+- **Surface test:** if more than roughly one third of major non-sky surfaces keep their original photographic identity, reject.
+- **Hierarchy test:** if the route is stronger than the hero landform, rebalance.
+- **Traceability test:** if a transformed mass has no source counterpart, remove it.
+- **Diversity test:** if a different source would produce the same white-and-mint S-curve world, remap the source.
+- **Restraint test:** if whole-world transformation was achieved by adding objects rather than replacing broad systems, simplify.
