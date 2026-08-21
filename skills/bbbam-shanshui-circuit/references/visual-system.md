@@ -2,37 +2,70 @@
 
 ## Core Thesis
 
-Do not put a style on the photo. Reveal a more interesting world latent in the photo's own structure.
+Use the source as a spatial blueprint. Rebuild its visible world so the result feels surprising, emotionally rewarding, and structurally inevitable.
+
+## World Completeness
+
+- Transform the whole scene, not one inserted object.
+- Preserve composition topology: viewpoint, horizon, relative placement, scale relationships, and silhouette rhythm.
+- Replace photographic surface identity across terrain, vegetation, water, ground, infrastructure, and light.
+- Keep one coherent world logic across foreground, middle ground, hero, and distance.
+- The before/after comparison should reveal the connection; the result does not need to look like an unedited version of the same place.
 
 ## Hierarchy
 
-- One hero structure, one supporting route, one quiet field.
-- The hero must read in one second at thumbnail size.
-- Favor a few broad, legible forms over many small decorative objects.
-- Use asymmetry with stable visual balance and deliberate negative space.
+- One broad hero landform or spatial body.
+- One continuous supporting circuit.
+- One designed field or liquid core.
+- Generous negative space and a few large shapes.
+- The route supports the hero. Do not let a white walkway become the whole concept.
+- Avoid filigree, scattered props, tiny rides, and decorative density.
+
+## Contemporary Chinese Spatial Logic
+
+Express Chinese aesthetics through:
+
+- layered near–middle–far depth;
+- borrowed scenery and framed distance;
+- winding approach and sequential reveal;
+- void/solid rhythm;
+- landscape understood as a navigable relationship.
+
+Do not depend on pagodas, lanterns, dragons, calligraphy, random flowers, or realistic decorative planting.
 
 ## Color
 
-- Clear, fresh, luminous, and controlled—not dark, muddy, neon-rainbow, or red-blue by default.
-- Use four roles at most: field, hero, secondary, signal.
-- Good families include celadon aqua, mist blue, warm milk, peach coral, lilac haze, tea green, and one acid-lime or electric-cyan signal.
-- Keep material color separation clean. Colorful means orchestrated relationships, not many unrelated hues.
+Use clear, fresh, luminous, controlled relationships. Suitable families include celadon aqua, mineral cyan, mist blue, warm milk, tea green, translucent jade, peach coral, and a restrained acid-lime signal.
+
+Use at most four roles:
+
+1. atmospheric field;
+2. hero body;
+3. circuit or secondary structure;
+4. small signal color.
+
+Colorful means depth and transparency within a controlled family, not five unrelated saturated hues.
 
 ## Material
 
-- Choose two dominant materials and at most one accent material.
-- Prefer pearl ceramic, translucent resin, satin aluminum, soft enamel, liquid membrane, frosted acrylic, polished stone, woven mesh, or cloudy gel.
-- Transparent and metallic surfaces are accents, not automatic defaults.
-- Preserve tactile contrast: soft versus precise, matte versus luminous, dense versus floating.
+Use two dominant families and one accent:
+
+- translucent colored soft-body resin or cloudy gel for source-derived terrain and planting masses;
+- interactive liquid membrane, luminous water, or deep clear color for the central field;
+- pearl ceramic, frosted white polymer, satin aluminum, or translucent structural resin for the circuit.
+
+Large translucent forms are allowed and may dominate when they replace mountains, trees, water, or architectural masses. Distinguish them from generic glass futurism:
+
+- desired: colored volume, soft deformation, internal depth, broad silhouette, delicate caustics, source-specific shape;
+- rejected: clear glass applied everywhere, excessive reflections, chrome filigree, sharp sci-fi towers, empty showroom aesthetics.
 
 ## Light and Finish
 
-- Bright diffuse daylight, soft volumetric atmosphere, delicate caustics only when motivated.
-- Premium C4D-like clarity with physically coherent shadows and clean surface detail.
-- Avoid dark cyberpunk lighting, harsh bloom, excessive reflections, dirty grunge, and low-quality plastic.
+- Bright diffuse daylight or luminous blue-hour atmosphere derived from the source.
+- Premium C4D-like clarity, coherent scale, accurate contact shadows, clean edges, and restrained caustics.
+- Surfaces must feel thick and physically designed, not like transparent overlays.
+- Avoid dark cyberpunk lighting, muddy color, harsh bloom, dirty grunge, thin plastic, and low-resolution texture.
 
-## Source Fidelity
+## Restraint
 
-- Preserve camera logic and the visual DNA of the source.
-- New forms must be transformations of source forms, never unexplained decoration.
-- A successful result feels surprising and inevitable at the same time.
+Transforming the whole world does not mean adding many objects. Prefer total material and geometric replacement through three broad systems: hero landform, field, and circuit.
