@@ -8,7 +8,7 @@
 View and supply both images. The bundled result is not merely a reference for polish; it is the fixed B.B.BAM visual language:
 
 - a few luminous **continuous** translucent soft-body landform shells;
-- one milk-pearl circuit ribbon;
+- an optional milk-pearl contour/ribbon only where the source gives a real directional line;
 - one saturated clear liquid center;
 - broad calm surfaces, long clean highlights, and bright air;
 - a complete rebuilt world rather than photo retouching.
@@ -19,7 +19,7 @@ View and supply both images. The bundled result is not merely a reference for po
 |---|---|
 | mountain ridge | 2–5 smooth layered aqua/jade soft-body shells |
 | sea opening | one saturated luminous liquid core |
-| foreground railing | one continuous milk-pearl amusement ribbon |
+| foreground railing | one continuous milk-pearl contour/ribbon, because the source contains a strong foreground line |
 | vegetation and ground | 1–3 simplified flowing translucent support planes |
 | sky | clear blue atmospheric field |
 
@@ -27,10 +27,10 @@ The bay is not copied as a preset. Its **mapping logic** is used: each major ori
 
 ## Apply the Same System to Other Sources
 
-- **City:** preserve urban vertical rhythm; rebuild towers as a small number of smooth translucent architectural bodies; convert stairs, roofs, roads, or facade seams to one pearl circuit; tune colors toward indigo/lilac/peach.
-- **Rock coast:** preserve rock-and-tide composition; rebuild rocks as one or two smooth seafoam mineral forms, surf as one liquid core, and shoreline as a restrained pearl ribbon; tune colors toward mist blue, pearl sand, and coral.
+- **City:** preserve the same skyline, plaza and foreground zoning; rebuild towers as smooth translucent architectural bodies. Use a pearly contour only if stairs, roofs, roads, or facade seams are visually strong; do not add a loop or signal sphere by habit.
+- **Rock coast:** preserve rock-and-tide composition and the original shore position; rebuild rocks as smooth seafoam mineral forms and surf as liquid core. A shoreline contour is optional, not a default pearl ribbon.
 - **Palm beach:** preserve trunk spacing, canopy rhythm, sea horizon, and distant city; rebuild palms as a limited number of translucent membrane canopies on clear smooth columns, sand as one pearly warm field, and shoreline/trunk rhythm as a pearl ribbon; tune colors toward aqua, lime, cyan, and apricot.
-- **Green terrain:** preserve ridge and layered growth; rebuild landform in broad jade/tea translucent shells, the open field in one cyan liquid/mist plane, and an existing edge as the pearl circuit. Never turn foreground grass into hundreds of small glass pieces.
+- **Green terrain:** preserve top sky, distant ridge, middle valley/water, and the full foreground slope in their original frame regions; rebuild landform in jade/tea translucent shells and foreground growth as layered continuous blankets. An existing edge may become a contour only when it is visually important. Never turn foreground grass into hundreds of small glass pieces.
 
 ## Approve Only When
 
