@@ -14,11 +14,11 @@ The central aesthetic constraint is **continuous articulation**: preserve source
 
 - Build 1–3 large continuous shell bodies, then give them a second layer of 3–8 connected ridges, terraces, lobes, membrane overlaps, inset basins, or contour channels.
 - Maintain long unbroken highlights, wide curves, soft transitions, clean silhouette edges, and readable layered depth.
-- Collapse source micro-detail into designed continuous structure: foliage → a lobed growth blanket with broad layered bands; sand → 2–4 flowing pearly strata; rock cluster → 2–4 joined mineral bulges; window grid → broad architectural faces with a few inset channels.
+- Translate source detail at its **semantic grouping scale**: foliage → overlapping smooth leaf clusters plus ribbon-like grass tufts and a few rounded flower groups; sand → 2–4 flowing pearly strata; rock cluster → 2–4 joined mineral bulges; window grid → broad architectural faces with a few inset channels. Do not turn a plant-dense foreground into a blank terrain blanket.
 - A repeated rhythm may remain when it is made from a small set of clear, large, smooth forms.
 - Never represent source texture as hundreds of small transparent objects.
 
-The intended feeling is smooth, thick, rich and touchable — like refined blown glass or inflated translucent resin with layered contour work — not crystalline, cellular, bubbly, scaly, bare-minimal, or crowded.
+The intended feeling is smooth, thick, rich and touchable — like refined blown glass or inflated translucent resin with layered contour work. Organic subject matter may retain recognizable leaf, blade, petal, frond, or trunk silhouettes; avoid only crystalline, cellular, bubbly, scaly, bare-minimal, or crowded renderings.
 
 ## Spatial Hierarchy
 
@@ -40,7 +40,7 @@ Preserve the original screen map: sky, horizon, foreground, and main bodies stay
 | Field/core | broad saturated clear liquid, mist glaze, pearly sand plane, or light void with 2–4 calm flowing strata or contour currents, in the source's original open zone | calm emotional center |
 | Accent | optional and source-derived; never a default sphere or prop | focus, never clutter |
 
-Do not switch to matte stone, enamel city, woven vegetation, rough mineral realism, chrome machinery, or generic glass-future architecture. Do not use faceted crystal, bubbly resin, repeated glass drops, leaf-like microgeometry, granular sand, liquid-noise texture, visually empty single-plane minimalism, generic looped roads, or default peach spheres.
+Do not switch to matte stone, enamel city, woven vegetation, rough mineral realism, chrome machinery, or generic glass-future architecture. Do not use faceted crystal, bubbly resin, repeated glass drops, **fragmented or cell-like leaf geometry**, granular sand, liquid-noise texture, visually empty single-plane minimalism, generic looped roads, or default peach spheres. Large smooth leaf/frond/blade modules are welcome when sourced from vegetation.
 
 ## Source-Led Color
 
@@ -57,4 +57,4 @@ Use 2–3 related translucent hues plus pearl white and one small warm signal. �
 
 Use bright air, clear water-light, high-end C4D rendering, broad soft refraction, clean contact shadows, and very subtle caustics. Let cloud, city blue-hour, or sun source mood influence the light while preserving luminosity.
 
-Avoid darkness, black voids, harsh bloom, dirty texture, heavy fog, thick chrome, sharp glass shards, toy plastic, random ornaments, dense micro-detail, rippled noise, surface speckle, fragmentation, and featureless empty planes.
+Avoid darkness, black voids, harsh bloom, dirty texture, heavy fog, thick chrome, sharp glass shards, toy plastic, random ornaments, dense micro-detail, rippled noise, surface speckle, fragmentation, and featureless empty planes. Do not confuse smoothness with deleting source-visible botanical structure.
