@@ -1,52 +1,48 @@
-# B.B.BAM Visual System
+# B.B.BAM Shanshui Circuit Visual System
 
-## Core Thesis
+## One Series, Not Many Styles
 
-Use the source as a spatial blueprint and a semantic inventory. Rebuild the visible world while keeping the source's underlying category logic: city as city, coast as coast, vegetation as growth rhythm, mountain as landform.
+This skill has one non-negotiable visual signature:
 
-## What the Example Reference Controls
+> **Colored translucent soft-body world + milk-pearl circuit + luminous liquid/mist field.**
 
-The bundled bay result controls transformation scale, whole-scene coherence, hierarchy, clean finish, and emotional luminosity.
+The reference example controls the visual language and transformation scale. A source can alter its palette and the shapes that are transformed, but it must not change this core material grammar.
 
-It does not prescribe turquoise, transparent gel, mountain forms, liquid centers, or elevated loops. Choose those only when the source and world thesis warrant them.
+## Spatial Hierarchy
 
-## World Hierarchy
+Every image contains:
 
-- One source-derived hero body.
-- One designed field: liquid, plaza, fog, dune, basin, or atmospheric opening.
-- One supporting circuit.
-- A few broad forms and generous quiet space.
-- Keep the route subordinate to the hero; never use a white walkway as a substitute for a concept.
+1. **Hero body** — one large source-derived translucent soft-body formation.
+2. **Field/core** — a bright liquid basin, sea, mist opening, glazed ground, or light void derived from the source's open zone.
+3. **Circuit** — one milk-pearl, frosted-resin, or pearl-ceramic route that follows an existing source line.
+4. **Quiet support** — only a few secondary source-derived volumes.
 
-## Chinese Spatial Logic
+Keep the route subordinate to the hero. Keep ample light and air. The hero, field, and circuit must all feel like one designed world.
 
-Use layered near–middle–far depth, framed distance, borrowed scenery, winding approach, sequential reveal, and void/solid rhythm. These are relationships, not icons. Do not force mountains, use literal pavilions, or add decorative flowers.
+## Fixed Materials
 
-## Material Allocation
-
-Assign three different jobs:
-
-| Role | Purpose | Suitable families |
+| System | Fixed treatment | Role |
 |---|---|---|
-| Hero | strongest volume and emotional anchor | matte mineral, pearl ceramic, cloudy soft resin, woven membrane, satin enamel, controlled translucent gel |
-| Field | depth, reflection, atmosphere, or spatial calm | liquid membrane, mist, glazed ground, porous stone, soft light, reflective enamel |
-| Circuit | precise movement and human scale | satin aluminum, pearl ceramic, frosted resin, woven mesh, embedded luminous groove |
+| Hero and supports | colored translucent, cloudy soft resin / glass-gel / soft crystal, smooth and volumetric | transformed source bodies |
+| Circuit | milk-white pearl ceramic, frosted resin, very fine satin edge only where needed | movement and human scale |
+| Field/core | saturated but clear liquid, mist-glaze, pearly sand, or light void | calm, emotional center |
+| Accent | one or two small peach, coral, amber, or lilac signals | focus, never clutter |
 
-Use two dominant material families and one accent. At least one large system must be matte, mineral, ceramic, woven, or satin rather than transparent. Do not give hero, field, supports, and circuit the same transparent treatment. Transparent colored volume is a choice for one focal system, not the default environment.
+Do not switch to matte stone, enamel city, woven vegetation, rough mineral realism, chrome machinery, or generic glass-future architecture. Controlled variation exists inside the translucent/pearl system, not outside it.
 
-## Color
+## Source-Led Color
 
-Derive the color family from the source light and one emotional contrast:
+Keep the **same material language**, but tune color to source light:
 
-- blue-hour city: ink blue, pearl, restrained lilac, amber signal;
-- green mountain or garden: jade/tea, mist blue, warm milk, coral signal;
-- grey rocky coast: chalk, wet mineral blue, sea-glass green, rust or coral signal;
-- sunlit palm coast: sand milk, sea cyan, leaf green, peach signal.
+- blue-hour city → cobalt/indigo/lilac translucent architecture, pearl white, peach-amber signal;
+- green mountain/garden → jade/tea translucent landform, sky cyan liquid, warm milk, coral signal;
+- cloudy coast → mist blue/seafoam translucent minerals, pearl sand, restrained coral signal;
+- palm coast → aqua/lime translucent canopy, cyan sea, sand-apricot ground, peach signal.
 
-Use at most four roles: atmospheric field, hero, secondary/circuit, and small signal. Colorful means controlled contrast, not a rainbow.
+Use 2–3 related translucent hues plus pearl white and one small warm signal. “Colorful” means clear and coordinated, not rainbow.
 
 ## Light and Finish
 
-Use premium C4D-like clarity, coherent scale, clean surfaces, accurate contact shadows, and restrained caustics. Let lighting follow the source mood: blue-hour can remain blue-hour, storm coast can retain its soft overcast atmosphere, bright coast can remain sunlit.
+Use bright air, clear water-light, high-end C4D rendering, soft refraction, clean contact shadows, and subtle caustics. Let cloud, city blue-hour, or sun source mood influence the light while preserving luminosity.
 
-Avoid generic showroom glass, excessive reflections, chrome filigree, dark cyberpunk, harsh bloom, dirty grunge, thin plastic, and low-resolution texture.
+Avoid darkness, black voids, harsh bloom, dirty texture, heavy fog, thick chrome, sharp glass shards, toy plastic, random ornaments, and dense micro-detail.
