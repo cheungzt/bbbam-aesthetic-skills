@@ -1,60 +1,80 @@
 # B.B.BAM Shanshui Circuit Visual System
 
-## One Series, Not Many Styles
+## Core Formula
 
-This skill has one non-negotiable visual signature:
+> **Selective source lineage + bold spatial invention + smooth continuous material finish.**
 
-> **Continuous colored soft-body world + luminous liquid/mist field + optional source-derived milk-pearl contour or ribbon.**
+The visual identity comes from how a casual scene is transformed into an enterable emotional world. It is not defined by a compulsory route, sphere, lake, plant, or exact composition.
 
-The reference example controls the visual language and transformation scale. A source can alter its palette and the shapes that are transformed, but it must not change this core material grammar.
+## What Must Stay Recognizable
 
-## Form Density: Controlled Medium
+Preserve a small set of source relationships:
 
-The central aesthetic constraint is **continuous articulation**: preserve source rhythm through connected middle-scale structure, not through particle detail and not through empty minimalism.
+- silhouette rhythm;
+- near/middle/far depth logic;
+- dominant directional flow;
+- one or two semantic identities such as mountain, water, vegetation, city, rock, canopy, or plaza;
+- a memorable source line or repeated cadence when useful.
 
-- Build 1–3 large continuous shell bodies, then give them a second layer of 3–8 connected ridges, terraces, lobes, membrane overlaps, inset basins, or contour channels.
-- Maintain long unbroken highlights, wide curves, soft transitions, clean silhouette edges, and readable layered depth.
-- Translate source detail at its **semantic grouping scale**: foliage → overlapping smooth leaf clusters plus ribbon-like grass tufts and a few rounded flower groups; sand → 2–4 flowing pearly strata; rock cluster → 2–4 joined mineral bulges; window grid → broad architectural faces with a few inset channels. Do not turn a plant-dense foreground into a blank terrain blanket.
-- A repeated rhythm may remain when it is made from a small set of clear, large, smooth forms.
-- Never represent source texture as hundreds of small transparent objects.
+Do not preserve every source object. Do not require exact regional or pixel-level matching.
 
-The intended feeling is smooth, thick, rich and touchable — like refined blown glass or inflated translucent resin with layered contour work. Organic subject matter may retain recognizable leaf, blade, petal, frond, or trunk silhouettes; avoid only crystalline, cellular, bubbly, scaly, bare-minimal, or crowded renderings.
+## What May Change Dramatically
 
-## Spatial Hierarchy
+- scale and proportion;
+- depth and viewpoint emphasis;
+- object count and grouping;
+- geometry and material;
+- foreground/midground interaction;
+- enclosure, openness, and circulation;
+- the role of an element: vegetation may become architecture; water may become a core; a railing may become a circulation system.
 
-Every image contains:
+The transformed system must still have an explainable source origin.
 
-1. **Hero body** — one large source-derived continuous translucent formation.
-2. **Field/core** — a bright liquid, mist opening, pearly ground, or light void that occupies the same visual role as the source's open zone.
-3. **Quiet support** — a restrained set of broad secondary source-derived volumes that carries the source's rhythm.
-4. **Optional movement element** — a milk-pearl ribbon or contour only when the source has an actual strong line worth transforming.
+## Form Vocabulary
 
-Preserve the original screen map: sky, horizon, foreground, and main bodies stay in their source positions. Keep ample light and air. A movement element is never required, and never substitutes for the source composition.
+Use combinations of:
 
-## Fixed Materials
+- enclosing translucent mountain shells;
+- smooth inflated hills and domes;
+- tall soft reed/column colonies;
+- layered canopy membranes;
+- hollow basins and liquid cores;
+- broad terraces and embedded channels;
+- suspended or wrapped contour structures;
+- softened urban masses;
+- internal luminous currents and broad striations.
 
-| System | Fixed treatment | Role |
-|---|---|---|
-| Hero and supports | thick colored translucent cloudy resin or blown-glass gel; smooth continuous NURBS-like skin with broad connected contour folds, inset channels, or layered membranes | transformed source bodies |
-| Optional movement | milk-white pearl-ceramic or frosted-resin ribbon **only when source-derived**; otherwise an embedded contour/current or absence | local directional logic |
-| Field/core | broad saturated clear liquid, mist glaze, pearly sand plane, or light void with 2–4 calm flowing strata or contour currents, in the source's original open zone | calm emotional center |
-| Accent | optional and source-derived; never a default sphere or prop | focus, never clutter |
+A scene may be visually rich. Richness should come from large and medium forms, layered depth, meaningful repetition, and internal material behavior.
 
-Do not switch to matte stone, enamel city, woven vegetation, rough mineral realism, chrome machinery, or generic glass-future architecture. Do not use faceted crystal, bubbly resin, repeated glass drops, **fragmented or cell-like leaf geometry**, granular sand, liquid-noise texture, visually empty single-plane minimalism, generic looped roads, or default peach spheres. Large smooth leaf/frond/blade modules are welcome when sourced from vegetation.
+## Surface Finish
 
-## Source-Led Color
+Preferred:
 
-Keep the **same material language**, but tune color to source light:
+- thick, smooth blown-glass or cloudy resin skin;
+- long uninterrupted highlights;
+- clean rounded transitions;
+- coherent broad seams;
+- soft internal refraction;
+- connected layers and controlled caustics;
+- large or medium repeated forms with a clear rhythm.
 
-- blue-hour city → cobalt/indigo/lilac translucent architecture, pearl white, peach-amber signal;
-- green mountain/garden → jade/tea translucent landform, sky cyan liquid, warm milk, coral signal;
-- cloudy coast → mist blue/seafoam translucent minerals, pearl sand, restrained coral signal;
-- palm coast → aqua/lime translucent canopy, cyan sea, sand-apricot ground, peach signal.
+Forbidden:
 
-Use 2–3 related translucent hues plus pearl white and one small warm signal. “Colorful” means clear and coordinated, not rainbow.
+- faceted mosaic surfaces;
+- cell-like partitions;
+- pebble/cube rubble;
+- shredded transparent fragments;
+- gelatin pellets or repeated tiny blobs;
+- dense accidental rods with no hierarchy;
+- noisy granular refraction;
+- rough or low-resolution material.
 
-## Light and Finish
+Botanical or architectural forms may remain complex and recognizable. The restriction applies to fragmented **surface construction**, not to subject complexity.
 
-Use bright air, clear water-light, high-end C4D rendering, broad soft refraction, clean contact shadows, and very subtle caustics. Let cloud, city blue-hour, or sun source mood influence the light while preserving luminosity.
+## Optional Motifs
 
-Avoid darkness, black voids, harsh bloom, dirty texture, heavy fog, thick chrome, sharp glass shards, toy plastic, random ornaments, dense micro-detail, rippled noise, surface speckle, fragmentation, and featureless empty planes. Do not confuse smoothness with deleting source-visible botanical structure.
+A milk-pearl path, embedded contour, orbit, ball, vehicle, or luminous marker may appear only when it completes the world thesis. It is never part of the required visual DNA.
+
+## Color and Light
+
+Use 2–4 coordinated clear hues derived partly from the source, plus warm milk or a small optional accent. Preserve clean luminous air. “Colorful” means transparent, layered, and controlled, never rainbow clutter or dark cyberpunk.
