@@ -1,42 +1,51 @@
-# Operational Example: Bay to Shanshui Circuit
+# Operational Example: Green Overlook to Reservoir Garden
 
-## Required Images
+## Inputs
 
-- Source blueprint: `../assets/shanshui-before.png`
-- Fixed-style reference: `../assets/shanshui-after.png`
+- Source: a casual vertical landscape photo with a large sky, distant ridge, narrow water opening, and dense foreground vegetation.
+- Positive result: a luminous translucent world with enlarged mountain shells, a central blue liquid core, transformed foreground growth systems, and strong near–middle–far drama.
 
-View and supply both images. The bundled result is not merely a reference for polish; it is the fixed B.B.BAM visual language:
+## Source Anchors
 
-- a few luminous **continuous** translucent soft-body landform shells;
-- an optional milk-pearl contour/ribbon only where the source gives a real directional line;
-- one saturated clear liquid center;
-- broad calm surfaces, long clean highlights, and bright air;
-- a complete rebuilt world rather than photo retouching.
+1. distant horizontal ridge;
+2. central water opening;
+3. dense foreground growth;
+4. broad open sky;
+5. optional directional edge through the vegetation.
 
-## Bay Mapping
+## Good Transformation
 
-| Source element | B.B.BAM transformation |
-|---|---|
-| mountain ridge | 2–5 smooth layered aqua/jade soft-body shells |
-| sea opening | one saturated luminous liquid core |
-| foreground railing | one continuous milk-pearl contour/ribbon, because the source contains a strong foreground line |
-| vegetation and ground | retain the original visible vegetation grouping as smooth layered leaf/grass modules over a translucent ground; do not flatten it into anonymous terrain |
-| sky | clear blue atmospheric field |
+- ridge → enlarged translucent enclosing shell;
+- water opening → condensed saturated reservoir core;
+- foreground vegetation → a designed combination of vertical reed/column colony, soft translucent growth domes, and layered internal garden forms;
+- open sky → luminous atmospheric void;
+- directional edge → optional wrapped contour only if it strengthens circulation.
 
-The bay is not copied as a preset. Its **mapping logic** is used: each major original component becomes a visibly related part of the same fixed material system.
+This is deliberately more transformed than the source. It preserves lineage through relationships, not literal leaves or exact coordinates.
 
-## Apply the Same System to Other Sources
+## What Makes the Positive Result Work
 
-- **City:** preserve the same skyline, plaza and foreground zoning; rebuild towers as smooth translucent architectural bodies. Use a pearly contour only if stairs, roofs, roads, or facade seams are visually strong; do not add a loop or signal sphere by habit.
-- **Rock coast:** preserve rock-and-tide composition and the original shore position; rebuild rocks as smooth seafoam mineral forms and surf as liquid core. A shoreline contour is optional, not a default pearl ribbon.
-- **Palm beach:** preserve trunk spacing, canopy rhythm, sea horizon, and distant city; rebuild palms as a limited number of translucent membrane canopies on clear smooth columns, sand as one pearly warm field, and shoreline/trunk rhythm as a pearl ribbon; tune colors toward aqua, lime, cyan, and apricot.
-- **Green terrain:** preserve top sky, distant ridge, middle valley/water, and the full foreground slope in their original frame regions; rebuild landform in jade/tea translucent shells. Keep the foreground legibly botanical: grouped smooth broad leaves at the near edge, layered ribbon-like grass in the middle, and soft flower clusters where present. An existing edge may become a contour only when it is visually important. Never turn foreground grass into hundreds of small glass pieces or flatten it into abstract terrain.
+- clear source ancestry without looking like retouching;
+- meaningful changes in scale, grouping, and spatial role;
+- one central emotional core;
+- rich foreground/midground layering;
+- a premium light and color system;
+- recognizable world thesis.
+
+## Required Improvement
+
+Keep the spatial invention and transformed systems, but polish the material:
+
+- merge fragmented surface chunks into continuous smooth skins;
+- preserve reeds, domes, shells, internal foliage, and depth;
+- replace cell-like or pebble-like breakup with broad curves, internal striation, and controlled seams;
+- do not flatten the foreground or restore literal photographic vegetation;
+- do not make optional routes or spheres compulsory for other sources.
 
 ## Approve Only When
 
-- a thumbnail still reads as B.B.BAM Shanshui Circuit;
-- the original source is structurally recognizable but visually rebuilt;
-- palette follows the source without breaking the common material language;
-- hero, field, circuit, and supports are traceable to source elements;
-- the close view is smooth and premium, with no fragmented or particulate visual noise, while preserving source-visible botanical/object structure at the correct grouping scale;
-- the result feels like an enterable, emotionally rewarding world rather than a photo effect.
+- the result is clearly a new world;
+- selected anchors remain traceable;
+- transformation operations are obvious;
+- surface finish is smooth without reducing complexity;
+- optional motifs have an actual conceptual role.
