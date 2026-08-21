@@ -12,9 +12,9 @@ Rebuild the photographed environment as one complete, unmistakably B.B.BAM world
 Every output must share this visual DNA:
 
 - luminous clear daylight or soft blue-hour atmosphere; no darkness or cyberpunk;
-- a full 3D world made from **continuous colored translucent soft-body surfaces**, **milky pearl/ceramic circuit ribbons**, and a **bright liquid, mist, or glazed core**;
+- a full 3D world made from **continuous colored translucent soft-body surfaces**, optional source-derived **milky pearl contour bands or circuit ribbons**, and a **bright liquid, mist, or glazed core**;
 - broad flowing primary forms with a controlled middle layer of connected ridges, terraces, folds, and inset channels; one legible hero; generous bright negative space;
-- a continuous amusement-like route derived from an existing line in the source;
+- optional movement logic only when an existing line in the source warrants it; it can be an embedded contour, channel, reflection edge, or ribbon — never a default route;
 - premium C4D clarity: thick smooth NURBS/blown-glass-like volumes, soft refraction, clean edges, controlled caustics, no cheap plastic, chrome clutter, or gritty realism;
 - contemporary Chinese spatial logic through layered depth, framed distance, winding approach, void/solid rhythm, and sequential reveal — never literal pavilions, dragons, lanterns, calligraphy, or arbitrary flowers.
 
@@ -28,8 +28,16 @@ Use **medium visual density**: smooth continuous worlds with enough connected st
 - Details must grow out of the same continuous skin: use smooth seams, soft terraces, overlapping membranes, broad lobes, and controlled internal refraction. Do not scatter separate objects on top.
 - Turn grass/leaves into a continuous lobed growth field with 3–8 large swellings or flowing bands; turn sand into broad wind-like strata; turn surf into 2–4 clear liquid contour lines. Preserve the original rhythm without literal micro-detail.
 - Supports may establish an existing source rhythm, but they must be a small family of clear repeated **large** forms, not a dense field of tiny forms.
-- The circuit must be one clean wide ribbon with long-radius turns; add only a few deliberate connections or embedded splits where they come from the source.
+- Add a circuit/ribbon only when the source contains a strong movement line (railing, road, shore, stair, roof edge, trunk alignment). Otherwise express movement as an embedded contour, water current, or no route at all. Do not add a ball, vehicle, mascot, sculpture, or “signal” prop unless directly derived from the source.
 - Prefer the smooth, articulated finish in `assets/shanshui-after.png`: rich through layered continuous surfaces, never through particles.
+
+## Source-First Framing Contract
+
+Before style design, divide the source into its actual image regions: top sky/ceiling, far horizon or skyline, middle land/water/built body, near foreground, and any directional line. Keep their approximate screen position, width, height, overlap, and visual weight.
+
+- The source composition wins over the style example. Do not move a horizon, replace foreground with a basin, or swap a landscape's land/water relationship just to reproduce the example’s composition.
+- Rebuild each major source region in place. If the source has a large foreground slope, it must remain a large foreground slope after transformation; if it has a narrow distant ridge, it must remain narrow and distant.
+- Style may change material, form language and semantic expression; it may not replace the source’s regional map with a generic world layout.
 
 ## Mandatory Reference Protocol
 
@@ -66,18 +74,19 @@ Do not add a major element that has no source counterpart. Do not turn a city in
 1. Read `references/visual-system.md`, `references/transformation-rules.md`, and `references/examples.md`.
 2. Identify the source's hero, field, circuit line, supports, and semantic anchors.
 3. Choose the source-derived palette while retaining the fixed material grammar.
-4. Map every major source zone into the B.B.BAM world.
-5. Rebuild at least 80% of visible surfaces and all major zones; preserve spatial relations, not photographic detail.
-6. Generate, then inspect at thumbnail size **and at close range** for surface continuity.
-7. Deliver the before/after pair and name the source-to-world mappings.
+4. Record a 4–5 zone screen map with each zone's approximate location and visual weight, then map every zone in place.
+5. Decide whether the source actually earns a circuit. If no clear source line exists, omit it.
+6. Rebuild at least 80% of visible surfaces and all major zones; preserve spatial relations, regional map, and semantic identity — not photographic texture.
+7. Generate, then inspect at thumbnail size and at close range for surface continuity and source-layout retention.
+8. Deliver the before/after pair and name the source-to-world mappings.
 
 ## Quality Gate
 
 Approve only when all are true:
 
 - It reads as a complete new B.B.BAM world, not an edited photo.
-- It is visibly part of the same luminous continuous-soft-body / pearl-ribbon / liquid-core series as other outputs.
-- Hero, field, and route originate from identifiable source elements.
+- It is visibly part of the same luminous continuous-soft-body / pearly-contour-or-ribbon / liquid-core series as other outputs.
+- Every major source region remains in its original visual role and approximate screen position; any route/contour, if used, originates from an identifiable source line.
 - Source colors influence the palette without replacing the visual language.
 - The city remains an urban world, vegetation keeps its growth rhythm, rock stays mineral, and mountains remain landform.
 - The image has one strong subject, broad readable forms, and a clear emotional payoff.
@@ -90,5 +99,6 @@ Reject when any are true:
 - The source remains largely visible beneath an overlay.
 - Materials become opaque architecture, stone realism, woven mesh, metal spectacle, or unrelated world families.
 - It uses high-frequency repetition: leaf fields, small capsule forests, bubbles, droplets, beads, crystals, pebbles, grain, cell textures, or dense tiny supports. Smooth, connected medium-scale folds and contour layers are allowed and preferred.
-- Every intervention is a default S-shaped promenade.
+- A default ribbon/road/ball/vehicle/mascot has been added without a direct source cue.
+- It uses the reference’s layout instead of the source’s regional map.
 - New mountains, plants, flowers, or decorative Chinese symbols have no source basis.
