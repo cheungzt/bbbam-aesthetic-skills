@@ -4,18 +4,30 @@
 
 This skill has one non-negotiable visual signature:
 
-> **Colored translucent soft-body world + milk-pearl circuit + luminous liquid/mist field.**
+> **Continuous colored soft-body world + milk-pearl ribbon circuit + luminous liquid/mist field.**
 
 The reference example controls the visual language and transformation scale. A source can alter its palette and the shapes that are transformed, but it must not change this core material grammar.
+
+## Form Density: Low
+
+The central aesthetic constraint is **smooth macro form**.
+
+- Work at the scale of large continuous shells, inflated NURBS volumes, liquid basins, and broad contour bands.
+- A hero should usually be 1–3 connected bodies. A landscape may use 2–5 layered shells. A support zone may use 1–3 quiet forms.
+- Maintain long unbroken highlights, wide curves, soft transitions, and clean silhouette edges.
+- Collapse source micro-detail into calm surface behavior: foliage → one growth blanket; sand → one pearly plane; rock cluster → one rounded group; window grid → a few broad architectural faces.
+- Never represent a source texture by hundreds of small transparent objects.
+
+The intended feeling is smooth, thick, serene and touchable — like refined blown glass or inflated translucent resin — not crystalline, cellular, bubbly, scaly, or crowded.
 
 ## Spatial Hierarchy
 
 Every image contains:
 
-1. **Hero body** — one large source-derived translucent soft-body formation.
-2. **Field/core** — a bright liquid basin, sea, mist opening, glazed ground, or light void derived from the source's open zone.
-3. **Circuit** — one milk-pearl, frosted-resin, or pearl-ceramic route that follows an existing source line.
-4. **Quiet support** — only a few secondary source-derived volumes.
+1. **Hero body** — one large source-derived continuous translucent formation.
+2. **Field/core** — a bright liquid basin, sea, mist opening, pearly ground, or light void derived from the source's open zone.
+3. **Circuit** — one milk-pearl, frosted-resin, or pearl-ceramic ribbon following an existing source line.
+4. **Quiet support** — only a few broad secondary source-derived volumes.
 
 Keep the route subordinate to the hero. Keep ample light and air. The hero, field, and circuit must all feel like one designed world.
 
@@ -23,12 +35,12 @@ Keep the route subordinate to the hero. Keep ample light and air. The hero, fiel
 
 | System | Fixed treatment | Role |
 |---|---|---|
-| Hero and supports | colored translucent, cloudy soft resin / glass-gel / soft crystal, smooth and volumetric | transformed source bodies |
-| Circuit | milk-white pearl ceramic, frosted resin, very fine satin edge only where needed | movement and human scale |
-| Field/core | saturated but clear liquid, mist-glaze, pearly sand, or light void | calm, emotional center |
+| Hero and supports | thick colored translucent cloudy resin or blown-glass gel; smooth continuous NURBS-like skin | transformed source bodies |
+| Circuit | one wide milk-white pearl-ceramic or frosted-resin ribbon; long radius turns, minimal supports | movement and human scale |
+| Field/core | broad saturated clear liquid, mist glaze, pearly sand plane, or light void | calm emotional center |
 | Accent | one or two small peach, coral, amber, or lilac signals | focus, never clutter |
 
-Do not switch to matte stone, enamel city, woven vegetation, rough mineral realism, chrome machinery, or generic glass-future architecture. Controlled variation exists inside the translucent/pearl system, not outside it.
+Do not switch to matte stone, enamel city, woven vegetation, rough mineral realism, chrome machinery, or generic glass-future architecture. Do not use faceted crystal, bubbly resin, repeated glass drops, leaf-like microgeometry, granular sand, or liquid-noise texture.
 
 ## Source-Led Color
 
@@ -43,6 +55,6 @@ Use 2–3 related translucent hues plus pearl white and one small warm signal. �
 
 ## Light and Finish
 
-Use bright air, clear water-light, high-end C4D rendering, soft refraction, clean contact shadows, and subtle caustics. Let cloud, city blue-hour, or sun source mood influence the light while preserving luminosity.
+Use bright air, clear water-light, high-end C4D rendering, broad soft refraction, clean contact shadows, and very subtle caustics. Let cloud, city blue-hour, or sun source mood influence the light while preserving luminosity.
 
-Avoid darkness, black voids, harsh bloom, dirty texture, heavy fog, thick chrome, sharp glass shards, toy plastic, random ornaments, and dense micro-detail.
+Avoid darkness, black voids, harsh bloom, dirty texture, heavy fog, thick chrome, sharp glass shards, toy plastic, random ornaments, dense micro-detail, rippled noise, surface speckle, and fragmentation.
