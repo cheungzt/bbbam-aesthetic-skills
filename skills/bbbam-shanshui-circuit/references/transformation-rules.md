@@ -4,29 +4,25 @@
 
 Choose 3–5 anchors, not the whole photograph.
 
-| Source cue | Possible preserved logic | Possible transformation |
+| Source cue | Preserve | Transform |
 |---|---|---|
-| ridge silhouette | enclosing horizontal rhythm | translucent shell, layered horizon, hollow landform |
-| foreground vegetation | dense upward growth and near-field weight | reed colony, membrane forest, soft domes, growth architecture |
-| water opening | central void or reflective calm | saturated liquid core, portal basin, glowing channel |
+| ridge silhouette | enclosing horizontal rhythm | shell, layered horizon, hollow landform |
+| foreground vegetation | upward cadence and near-field weight | limited column family, canopy membrane, smooth domes, growth architecture |
+| water opening | central void or reflective calm | saturated liquid core, portal basin, broad glowing current |
 | shore/railing/road | directional sweep | embedded contour, wrapped route, split current, optional circuit |
-| skyline/towers | vertical cadence | softened translucent urban masses, folded civic system |
-| rock group | clustered weight | inflated mineral islands, hollow soft masses |
-| palms/trees | trunk spacing and canopy spread | smooth column grove, layered canopy membranes |
+| skyline/towers | vertical cadence | softened urban masses, folded civic system |
+| rock group | clustered weight | merged inflated islands or hollow soft masses |
+| palms/trees | trunk intervals and canopy spread | substantial column grove and continuous canopy membranes |
 
-Preserve the relationship between selected anchors. Other details may be condensed, merged, omitted, or reassigned.
+Preserve relationships. Condense, merge, omit, or reassign literal small details.
 
 ## 2. Write a World Thesis
 
 Use:
 
-> “[Selected source anchors] become [a specific spatial world] through [2–4 transformation operations].”
+> “[Selected anchors] become [a specific spatial world] through [2–4 transformation operations].”
 
-Example:
-
-> “The distant ridge, central water opening, and dense foreground growth become a translucent reservoir garden by enclosing the horizon, extruding the vegetation into a reed colony, and condensing the water into a luminous core.”
-
-The thesis must describe a transformation, not a material filter.
+Describe transformation, not a material filter.
 
 ## 3. Apply Transformation Operations
 
@@ -42,41 +38,62 @@ Choose 2–4:
 - connect / thread;
 - invert foreground and background emphasis.
 
-Do not preserve exact shape and exact layout simultaneously. Make a designed choice.
+Do not preserve exact shape and exact layout simultaneously.
 
-## 4. Add Optional Motifs Deliberately
+## 4. Build a Three-Scale Plan Before Generating
 
-Ask:
+Write:
 
-- Does the source contain a line or object that can become a movement system?
-- Does a route, marker, sphere, vehicle, or signal strengthen the thesis?
-- Would the world still have a concept without it?
+- **Macro hero:** [1–3 dominant systems]
+- **Meso support:** [organized families and broad layers]
+- **Accent:** [a few long lines/highlights]
+- **Condense:** [source micro-detail that must become broad masses]
+- **Omit:** [repeated tiny elements and unsupported motifs]
 
-If the answer is weak, omit it. Never add a standard white loop or peach ball by default.
+Apply these hard constraints:
 
-## 5. Polish Surfaces Without Simplifying the World
+- No more than three readable detail scales.
+- Let at least 80% of transformed solid surfaces remain broad and uninterrupted.
+- Let accents occupy at most 5% of the frame.
+- Avoid individually readable leaves, grass blades, thorns, tiny rods, bubbles, glitter points, foam, pebbles, small facets, and repeated dots.
+- Use large continuous interior color veils beneath transparent skins instead of literal internal foliage.
+- Use a few broad water currents instead of dense ripples and specular confetti.
+- Preserve richness by overlap, depth, silhouette, rhythm, scale contrast, and color layering.
 
-Keep all meaningful forms and spatial layers. Change only the construction quality:
+## 5. Add Optional Motifs Deliberately
 
-- merge tiny surface fragments into a continuous skin;
-- replace cellular facets with broad smooth curvature;
-- replace pebble-like detail with internal striation, embossed bands, or soft connected folds;
-- preserve complex silhouettes and grouped repetitions when they carry the concept;
-- allow reed colonies, canopy layers, botanical groups, city masses, or terrain systems, but organize them into clear size tiers and smooth modules.
+Ask whether a route, marker, sphere, vehicle, or signal strengthens a source-derived thesis. Omit it when the answer is weak. Never add a standard white loop or peach ball by default.
 
-## 6. Prompt Contract
+## 6. Polish Without Simplifying
 
-> “Image 1 supplies 3–5 structural seeds and semantic relationships, not a pixel-locked composition. Image 2 supplies transformation ambition, luminous spatial mood, and material quality; do not copy its compulsory motifs.
+Keep meaningful spatial systems. Consolidate only construction noise:
+
+- merge fragments into continuous skins;
+- replace cellular facets with broad curvature;
+- replace pebble detail with long internal bands or soft connected folds;
+- replace leaf-by-leaf interiors with continuous translucent veils or a few large silhouettes;
+- replace dense water highlights with restrained long reflections;
+- keep complex silhouettes only at macro and meso scale;
+- use clean boundaries, clear spacing, and coherent material transitions.
+
+## 7. Prompt Contract
+
+> “Image 1 supplies 3–5 structural seeds and semantic relationships, not a pixel-locked composition. Image 2 supplies transformation ambition, luminous spatial mood, hierarchy, and material quality; do not copy its compulsory motifs.
 >
-> Source anchors: [anchors]. Preserve [relationship]. World thesis: [thesis]. Apply [operations] to build a substantially new enterable world. Use translucent soft-body/resin/glass forms and source-led clear colors. Optional movement or signal element: [include with reason / omit].
+> Source anchors: [anchors]. Preserve [relationship]. World thesis: [thesis]. Apply [operations] to build a substantially new enterable world. Optional movement or signal element: [include with reason / omit].
 >
-> Keep the full spatial invention and detail hierarchy. Polish every surface into smooth thick continuous curvature with long clean highlights and controlled refraction. Remove only fragmented construction: no cell chunks, pebble pieces, cube rubble, faceted mosaic, shredded glass, pellets, repeated tiny blobs, or accidental micro-rods. Do not turn the result into a literal reconstruction or simple filter.”
+> Three-scale plan — Macro: [hero systems]. Meso: [supporting groups]. Accent: [few long details]. Condense into broad masses: [foliage/waves/windows/etc.]. Omit: [micro-detail].
+>
+> Keep spatial invention high. Use thick smooth continuous soft-body/resin/glass skins, large uninterrupted color fields, long clean highlights, broad internal veils, and controlled refraction. Preserve detail through layered silhouettes and organized form families only. Do not render individual leaves, grass blades, thorns, dense rods, tiny bubbles, pebbles, facets, dots, scattered sparkles, foam, granular ripples, specular confetti, or noisy internal debris. Do not simplify the world or return to a filter.”
 
-## 7. Rejection Tests
+## 8. Rejection Tests
 
-- **Filter test:** if it is mainly the original photo with new material, reject.
-- **Template test:** if a standard lake/loop/ball appears without a source-derived purpose, reject.
-- **Lineage test:** if no major transformation can be traced to a source anchor, reject.
-- **Invention test:** if depth, scale, grouping, and geometry barely changed, reject.
-- **Surface test:** if richness comes from fragments or noisy micro-objects, reject.
-- **Overcorrection test:** if smoothing deleted the concept, object systems, or spatial drama, restore them and polish only their surfaces.
+- **Filter:** reject if mainly the original photo with new material.
+- **Template:** reject unsupported standard lakes, loops, balls, or tracks.
+- **Lineage:** reject if major transformations have no source anchor.
+- **Invention:** reject if depth, scale, grouping, and spatial roles barely changed.
+- **Hierarchy:** reject if more than three detail scales compete.
+- **Surface:** reject fragments, facets, chunks, debris, and noisy refraction.
+- **Texture:** reject individually rendered leaves, blades, needles, glitter, dots, dense ripples, or specular confetti.
+- **Thumbnail:** inspect at 15–20% size; reject any stippled, leafy, thorny, granular, or glittering region.
+- **Overcorrection:** if smoothing deleted the concept, source lineage, meso systems, or spatial drama, restore them while keeping the micro-detail ban.
