@@ -26,7 +26,9 @@ Use **medium visual density**: smooth continuous worlds with enough connected st
 
 - Start with 1–3 thick, rounded primary volumes, then articulate them with 3–8 **connected** contour ridges, layered shells, inflated folds, inset basins, or embedded translucent channels.
 - Details must grow out of the same continuous skin: use smooth seams, soft terraces, overlapping membranes, broad lobes, and controlled internal refraction. Do not scatter separate objects on top.
-- Turn grass/leaves into a continuous lobed growth field with 3–8 large swellings or flowing bands; turn sand into broad wind-like strata; turn surf into 2–4 clear liquid contour lines. Preserve the original rhythm without literal micro-detail.
+- **Separate surface continuity from object identity.** Keep the source's visible object classes and their grouping: a leafy foreground must still read as layered leaves, grass tufts, and occasional flowers; a palm must still read as canopy/frond mass; rocks still read as rock groups. Smooth the skin of each group, not the category itself.
+- Render vegetation as **grouped botanical modules**: overlapping broad smooth leaves, ribbon-like grass tufts, and a small number of rounded flower clusters, fused or cleanly layered at the base. Preserve the foreground's density and directional growth rhythm, but never fragment a leaf/grass blade into pebbles, cubes, blobs, cells, or droplets.
+- Turn sand into broad wind-like strata and surf into 2–4 clear liquid contour lines. Preserve the original rhythm without photographic grain.
 - Supports may establish an existing source rhythm, but they must be a small family of clear repeated **large** forms, not a dense field of tiny forms.
 - Add a circuit/ribbon only when the source contains a strong movement line (railing, road, shore, stair, roof edge, trunk alignment). Otherwise express movement as an embedded contour, water current, or no route at all. Do not add a ball, vehicle, mascot, sculpture, or “signal” prop unless directly derived from the source.
 - Prefer the smooth, articulated finish in `assets/shanshui-after.png`: rich through layered continuous surfaces, never through particles.
@@ -63,7 +65,7 @@ Use morphological echoes, never literal photo textures:
 - building cluster → a few translucent architectural bodies or folded civic volumes; city remains city;
 - mountain ridge → 3–7 continuous layered landform shells, with broad connected contour folds;
 - rock cluster → 2–4 smooth mineral volumes with shared, flowing seams;
-- tree/palm rows → a clear family of smooth canopy-column forms and broad membrane layers, never leaf clusters;
+- tree/palm rows → a clear family of smooth canopy-column forms with broad layered leaf/frond membranes; retain the plant’s identifiable canopy rhythm without fragmented leaf shards;
 - water/sand/plaza/sky opening → a calm luminous liquid or pearly field with 2–4 broad contour currents;
 - railing/shoreline/road/roof/stair/trunk spacing → one continuous milk-pearl circuit ribbon.
 
@@ -88,6 +90,7 @@ Approve only when all are true:
 - It is visibly part of the same luminous continuous-soft-body / pearly-contour-or-ribbon / liquid-core series as other outputs.
 - Every major source region remains in its original visual role and approximate screen position; any route/contour, if used, originates from an identifiable source line.
 - Source colors influence the palette without replacing the visual language.
+- If vegetation/foliage occupies a major source region, the output still reads as vegetation/foliage at a glance, with similar foreground density and grouping.
 - The city remains an urban world, vegetation keeps its growth rhythm, rock stays mineral, and mountains remain landform.
 - The image has one strong subject, broad readable forms, and a clear emotional payoff.
 - At close range, large surfaces remain smooth and calm while showing a controlled middle layer of connected folds, ridges, strata, or inset channels.
@@ -98,7 +101,7 @@ Reject when any are true:
 - It is a generic real-world C4D city, a dark fantasy scene, or a different material style.
 - The source remains largely visible beneath an overlay.
 - Materials become opaque architecture, stone realism, woven mesh, metal spectacle, or unrelated world families.
-- It uses high-frequency repetition: leaf fields, small capsule forests, bubbles, droplets, beads, crystals, pebbles, grain, cell textures, or dense tiny supports. Smooth, connected medium-scale folds and contour layers are allowed and preferred.
+- It uses high-frequency repetition: fragmented leaf shards, capsule forests, bubbles, droplets, beads, crystals, pebbles, grain, cell textures, or dense tiny supports. Smooth **grouped botanical leaves and grass ribbons** are allowed and required when vegetation is a major source feature.
 - A default ribbon/road/ball/vehicle/mascot has been added without a direct source cue.
 - It uses the reference’s layout instead of the source’s regional map.
 - New mountains, plants, flowers, or decorative Chinese symbols have no source basis.
