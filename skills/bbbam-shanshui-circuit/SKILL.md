@@ -1,69 +1,81 @@
 ---
 name: bbbam-shanshui-circuit
-description: Rebuild casual landscape, waterfront, park, street, travel, architecture, or environmental photos into a complete contemporary Chinese spatial amusement world in the B.B.BAM visual language. Use for 国风空间×游乐回路、山海回路、Shanshui Circuit, or when a casual photo should become a source-specific, playful 3D world. Treat the source as a spatial blueprint: retain viewpoint, topology, and semantic identity while replacing visible materials and geometry. Reject filters, local object additions, generic transparent future worlds, photo-plus-walkway results, and forcing all sources into mountains.
+description: Transform casual landscape, waterfront, park, street, travel, architecture, or environmental photos into a complete B.B.BAM Shanshui Circuit world: a luminous contemporary Chinese spatial amusement image with colored translucent soft-body volumes, milk-pearl circuits, and a liquid or mist core. Use for 国风空间×游乐回路、山海回路、Shanshui Circuit, or when a casual photo should become a high-transformation, emotionally rewarding C4D-like world. The visual language is fixed; the source changes its hue, spatial mapping, and transformed elements.
 ---
 
 # B.B.BAM Shanshui Circuit
 
-Rebuild the whole photographed environment as one coherent world. Use Chinese spatial logic as an organizing method, not as a mountain-shaped preset.
+Rebuild the photographed environment as one complete, unmistakably B.B.BAM world. This is not a filter and not a menu of art directions.
+
+## Fixed Visual Signature — Never Vary
+
+Every output must share this visual DNA:
+
+- luminous clear daylight or soft blue-hour atmosphere; no darkness or cyberpunk;
+- a full 3D world made from **colored translucent soft-body volumes**, **milky pearl/ceramic circuit structures**, and a **bright liquid, mist, or glazed core**;
+- few large, calm forms; one legible hero; generous bright negative space;
+- a continuous amusement-like route derived from an existing line in the source;
+- premium C4D clarity: soft refraction, clean edges, controlled caustics, no cheap plastic, chrome clutter, or gritty realism;
+- contemporary Chinese spatial logic through layered depth, framed distance, winding approach, void/solid rhythm, and sequential reveal — never literal pavilions, dragons, lanterns, calligraphy, or arbitrary flowers.
+
+The output should read as the same series at thumbnail size, even when the source changes.
 
 ## Mandatory Reference Protocol
 
 Before generating, load and inspect `assets/shanshui-after.png`.
 
-Use the two inputs differently:
+Use inputs differently:
 
-- **User source:** truth for camera, framing, horizon, topology, relative scale, silhouette rhythm, and semantic identity.
-- **Target example:** truth for transformation magnitude, whole-world completeness, hierarchy, restraint, and premium finish.
+- **User source:** truth for camera, crop, horizon, topology, relative scale, dominant palette, semantic anchors, and source lines.
+- **Target example:** truth for the fixed visual language, transformation magnitude, material grammar, complete-world scale, hierarchy, and premium finish.
 
-Do **not** inherit the target example's aqua palette, transparent material, mountain form, liquid basin, or loop shape by default. Pass both images to the generation tool and explicitly state this separation.
+Do not imitate the target image's exact scene. Do inherit its level of rebuilding and its consistent material grammar.
 
-## Preserve Semantic Identity
+## Source Adaptation
 
-Keep the source's category logic while reinterpreting its appearance:
+The source does **not** choose a different art style. It controls only:
 
-- a city may become a folded urban garden, an enamel civic machine, or a misty architectural theatre; its skyline remains built environment, not compulsory mountains;
-- a rocky coast remains a tide-and-mineral world;
-- palms and vegetation remain vertical, branching, canopy, or growth rhythms—not unrelated fake mountains;
-- a mountain can become a landform because it is already a landform.
+1. **Hue:** adapt the fixed translucent/pearl system to the source's colors.
+2. **Morphology:** transform existing elements by their shape and role.
+3. **Topology:** preserve camera, horizon, relative placement, silhouette rhythm, and near–middle–far structure.
 
-Preserve only camera, topology, scale relationships, silhouette rhythm, and semantic relationships. Replace photographic surfaces, geometry, materials, infrastructure, and light.
+Use morphological echoes, never literal photo textures:
 
-## World-Building Workflow
+- building cluster → translucent architectural blocks, soft crystalline towers, or folded civic volumes; city remains city;
+- mountain ridge → translucent layered landform;
+- rock cluster → soft mineral masses;
+- tree/palm rows → translucent canopy-column rhythm;
+- water/sand/plaza/sky opening → luminous liquid, pearly ground, or mist field;
+- railing/shoreline/road/roof/stair/trunk spacing → a continuous milk-pearl circuit.
 
-1. Read `references/visual-system.md`, `references/transformation-rules.md`, `references/world-families.md`, and `references/examples.md`.
-2. Write a one-sentence **world thesis** that can only describe this source. If it fits another source unchanged, rewrite it.
-3. Map source zones: hero, field, circuit, supports, and semantic anchors.
-4. Select one source-appropriate world family; do not default to transparent soft-body terrain.
-5. Assign three distinct roles: hero material, field behavior, and circuit material. Use contrast rather than one material everywhere.
-6. Choose a route morphology—embedded, folded, suspended, threaded, or liquid—not a default white S-shaped promenade.
-7. Generate with both images, then review at thumbnail size.
-8. Deliver a visible before/after pair and name the world thesis plus the three principal transformations.
+Do not add a major element that has no source counterpart. Do not turn a city into mountains, or a coast into an unrelated garden.
 
-## Composition
+## Workflow
 
-- Transform at least three major source zones structurally.
-- Let the hero dominate; let field and circuit support it.
-- Keep broad legible forms, clear negative space, and one motion logic.
-- Derive every major intervention from an existing source counterpart.
-- Translate Chinese aesthetics through layered depth, borrowed scenery, winding approach, sequential reveal, and void/solid rhythm. Do not use pagodas, lanterns, dragons, calligraphy, or arbitrary flowers.
+1. Read `references/visual-system.md`, `references/transformation-rules.md`, and `references/examples.md`.
+2. Identify the source's hero, field, circuit line, supports, and semantic anchors.
+3. Choose the source-derived palette while retaining the fixed material grammar.
+4. Map every major source zone into the B.B.BAM world.
+5. Rebuild at least 80% of visible surfaces and all major zones; preserve spatial relations, not photographic detail.
+6. Generate, then inspect at thumbnail size.
+7. Deliver the before/after pair and name the source-to-world mappings.
 
 ## Quality Gate
 
 Approve only when all are true:
 
-- It reads first as a complete new world, not an edited photograph.
-- Hero, field, and circuit each have a source-specific role.
-- The image preserves semantic identity without retaining photographic texture.
-- Its material allocation includes deliberate contrast; it is not transparent aqua applied to every zone.
-- Its world thesis, material combination, and route morphology would not transfer unchanged to another source.
-- The result is fresh, luminous, emotionally rewarding, restrained, and premium.
+- It reads as a complete new B.B.BAM world, not an edited photo.
+- It is visibly part of the same luminous transparent-soft-body / pearl-circuit / liquid-core series as other outputs.
+- Hero, field, and route originate from identifiable source elements.
+- Source colors influence the palette without replacing the visual language.
+- The city remains an urban world, vegetation keeps its growth rhythm, rock stays mineral, and mountains remain landform.
+- The image has one strong subject, broad readable forms, and a clear emotional payoff.
 
 Reject when any are true:
 
-- The scene can be described as photo plus path, bridge, slide, or installation.
-- An urban skyline has been converted into generic mountains without source justification.
-- Covering the route reveals an almost unchanged photo.
-- Hero, field, supports, and circuit all use the same transparent soft-body treatment.
-- The circuit is a default white or mint S-curve promenade.
-- The result is a generic glass future city, dark cyberpunk, literal-Chinese decoration, clutter, or cheap plastic.
+- It is photo plus path, bridge, slide, or local installation.
+- It is a generic real-world C4D city, a dark fantasy scene, or a different material style.
+- The source remains largely visible beneath an overlay.
+- Materials become opaque architecture, stone realism, woven mesh, metal spectacle, or unrelated world families.
+- Every intervention is a default S-shaped promenade.
+- New mountains, plants, flowers, or decorative Chinese symbols have no source basis.
