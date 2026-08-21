@@ -13,22 +13,23 @@ Every output must share this visual DNA:
 
 - luminous clear daylight or soft blue-hour atmosphere; no darkness or cyberpunk;
 - a full 3D world made from **continuous colored translucent soft-body surfaces**, **milky pearl/ceramic circuit ribbons**, and a **bright liquid, mist, or glazed core**;
-- a small number of broad, flowing, monolithic forms; one legible hero; generous bright negative space;
+- broad flowing primary forms with a controlled middle layer of connected ridges, terraces, folds, and inset channels; one legible hero; generous bright negative space;
 - a continuous amusement-like route derived from an existing line in the source;
 - premium C4D clarity: thick smooth NURBS/blown-glass-like volumes, soft refraction, clean edges, controlled caustics, no cheap plastic, chrome clutter, or gritty realism;
 - contemporary Chinese spatial logic through layered depth, framed distance, winding approach, void/solid rhythm, and sequential reveal — never literal pavilions, dragons, lanterns, calligraphy, or arbitrary flowers.
 
 The output should read as the same series at thumbnail size, even when the source changes.
 
-## Surface Continuity Rule
+## Articulated Continuity Rule
 
-Treat the world as a small number of **continuous inflated shells or liquid surfaces**, not a collection of tiny objects.
+Use **medium visual density**: smooth continuous worlds with enough connected structure to retain the source's rhythm and emotional interest.
 
-- Make hero volumes smooth, thick, rounded, and uninterrupted: no facets, scales, seams, cracks, crystals, pebbles, or repeated blobs.
-- Turn grass, leaves, sand grain, surf foam, and city window grids into **one or two broad flowing planes**, soft contour bands, or calm translucent blankets.
-- Use only 1–3 quiet support shapes in any zone; never generate fields of droplets, stalks, capsules, small leaves, cells, or decorative debris.
-- The circuit must be a single clean wide ribbon with long radius turns and minimal supports.
-- Prefer the smooth, broad, simple finish in `assets/shanshui-after.png` over literal source detail.
+- Start with 1–3 thick, rounded primary volumes, then articulate them with 3–8 **connected** contour ridges, layered shells, inflated folds, inset basins, or embedded translucent channels.
+- Details must grow out of the same continuous skin: use smooth seams, soft terraces, overlapping membranes, broad lobes, and controlled internal refraction. Do not scatter separate objects on top.
+- Turn grass/leaves into a continuous lobed growth field with 3–8 large swellings or flowing bands; turn sand into broad wind-like strata; turn surf into 2–4 clear liquid contour lines. Preserve the original rhythm without literal micro-detail.
+- Supports may establish an existing source rhythm, but they must be a small family of clear repeated **large** forms, not a dense field of tiny forms.
+- The circuit must be one clean wide ribbon with long-radius turns; add only a few deliberate connections or embedded splits where they come from the source.
+- Prefer the smooth, articulated finish in `assets/shanshui-after.png`: rich through layered continuous surfaces, never through particles.
 
 ## Mandatory Reference Protocol
 
@@ -39,7 +40,7 @@ Use inputs differently:
 - **User source:** truth for camera, crop, horizon, topology, relative scale, dominant palette, semantic anchors, and source lines.
 - **Target example:** truth for the fixed visual language, transformation magnitude, large-scale surface simplicity, material grammar, complete-world scale, hierarchy, and premium finish.
 
-Do not imitate the target image's exact scene. Do inherit its level of rebuilding and its smooth, sparse material grammar.
+Do not imitate the target image's exact scene. Do inherit its level of rebuilding and its smooth, articulated material grammar: layered continuous surfaces rather than sparse emptiness or particulate detail.
 
 ## Source Adaptation
 
@@ -52,10 +53,10 @@ The source does **not** choose a different art style. It controls only:
 Use morphological echoes, never literal photo textures:
 
 - building cluster → a few translucent architectural bodies or folded civic volumes; city remains city;
-- mountain ridge → 2–5 continuous layered landform shells;
-- rock cluster → one or two smooth mineral volumes;
-- tree/palm rows → a small number of smooth canopy-column forms, never leaf clusters;
-- water/sand/plaza/sky opening → a calm luminous liquid, pearly plane, or mist field;
+- mountain ridge → 3–7 continuous layered landform shells, with broad connected contour folds;
+- rock cluster → 2–4 smooth mineral volumes with shared, flowing seams;
+- tree/palm rows → a clear family of smooth canopy-column forms and broad membrane layers, never leaf clusters;
+- water/sand/plaza/sky opening → a calm luminous liquid or pearly field with 2–4 broad contour currents;
 - railing/shoreline/road/roof/stair/trunk spacing → one continuous milk-pearl circuit ribbon.
 
 Do not add a major element that has no source counterpart. Do not turn a city into mountains, or a coast into an unrelated garden.
@@ -80,7 +81,7 @@ Approve only when all are true:
 - Source colors influence the palette without replacing the visual language.
 - The city remains an urban world, vegetation keeps its growth rhythm, rock stays mineral, and mountains remain landform.
 - The image has one strong subject, broad readable forms, and a clear emotional payoff.
-- At close range, large surfaces remain smooth and calm rather than busy or particulate.
+- At close range, large surfaces remain smooth and calm while showing a controlled middle layer of connected folds, ridges, strata, or inset channels.
 
 Reject when any are true:
 
@@ -88,6 +89,6 @@ Reject when any are true:
 - It is a generic real-world C4D city, a dark fantasy scene, or a different material style.
 - The source remains largely visible beneath an overlay.
 - Materials become opaque architecture, stone realism, woven mesh, metal spectacle, or unrelated world families.
-- It contains high-frequency repetition: leaf fields, small capsule forests, bubbles, droplets, beads, crystals, pebbles, grain, cell textures, or dense tiny supports.
+- It uses high-frequency repetition: leaf fields, small capsule forests, bubbles, droplets, beads, crystals, pebbles, grain, cell textures, or dense tiny supports. Smooth, connected medium-scale folds and contour layers are allowed and preferred.
 - Every intervention is a default S-shaped promenade.
 - New mountains, plants, flowers, or decorative Chinese symbols have no source basis.
