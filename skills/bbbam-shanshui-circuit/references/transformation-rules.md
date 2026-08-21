@@ -1,85 +1,84 @@
 # Shanshui Circuit Transformation Rules
 
-## 1. Build a Whole-Scene Source Map
+## 1. Write a World Thesis First
 
-Map every major visible zone before generating:
+Before mapping materials, write one sentence in this form:
 
-| Source zone | Required transformed role |
+> “[Source-specific condition] becomes [a specific spatial world] through [a source-derived transformation mechanism].”
+
+Examples:
+
+- “The blue-hour civic complex becomes a folded enamel garden machine through its rooflines and escalator vectors.”
+- “The windy rock coast becomes a tide-polished mineral theatre through the diagonal collision of sand, rocks, and surf.”
+- “The palm beach becomes a canopy-column theatre through the original trunk rhythm and open sea horizon.”
+
+Reject the thesis if it could describe another image without changes.
+
+## 2. Preserve Topology and Semantic Identity
+
+Retain:
+
+- camera, crop, horizon, perspective, relative placement, scale relationships, silhouette rhythm, and near–middle–far organization;
+- semantic anchors: building remains built structure, urban skyline remains urban, rock remains mineral mass, palm remains vertical/canopy rhythm, mountain remains landform, water remains field or flow.
+
+Replace:
+
+- photographic textures, literal surface materials, local geometry, light response, and environmental rendering;
+- source objects only after their semantic role has been transferred.
+
+Do not turn a skyline into mountains merely because the skill is called Shanshui Circuit.
+
+## 3. Map Five Source Zones
+
+| Source zone | Ask | World role |
+|---|---|---|
+| Hero | What is visually largest or most characteristic? | source-specific body or structure |
+| Field | Where is the main emptiness, water, plaza, sand, or sky opening? | liquid, mist, ground, basin, or atmospheric field |
+| Circuit | Which real line already carries movement? | embedded, folded, suspended, threaded, or liquid path |
+| Supports | Which repeated elements establish rhythm? | quiet secondary masses |
+| Semantic anchors | What must remain legible as a category? | retained spatial identity |
+
+Transform at least hero, field, and circuit.
+
+## 4. Select Material by Source, Not Example
+
+Assign one dominant hero material, one field behavior, and one circuit material. Use contrast. The target example supplies finish and transformation strength only.
+
+- **Blue-hour city:** pearl ceramic or satin enamel hero; smoky acrylic or reflective plaza field; satin metal/frosted resin circuit. Keep towers as softened architectural screens, blocks, or folded urban faces.
+- **Green terrain:** cloudy gel or mineral resin hero; water/mist field; pearl ceramic or woven-mesh circuit. Avoid rendering every plant as glass.
+- **Rocky coast:** matte porous mineral or wet polished stone hero; tide membrane field; embedded ceramic groove or restrained metal edge circuit. Do not add an elevated promenade by default.
+- **Palm coast:** membrane canopy, woven mesh, milky resin, or glazed stone hero; sand/sea dual field; threaded or wrapped circuit. Keep the vertical canopy rhythm.
+- **Concrete/industrial source:** soft enamel, satin aluminum, glazed concrete, and structural mesh. Let industrial seams become the motion language.
+
+## 5. Select Route Morphology
+
+Choose one, based on the source:
+
+| Route type | Best source cues |
 |---|---|
-| Largest mountain, building, tree mass, slope, or coastline | Dominant artificial landform or spatial body |
-| Water, plaza, sand, blank ground, or large opening | Interactive liquid core, luminous basin, mist field, or calm designed void |
-| Railing, road, shoreline, river, ridge, shadow edge, bridge, or facade line | One continuous amusement circuit |
-| Existing vegetation, rocks, urban blocks, or repeated elements | Abstract supporting masses, gates, rhythm markers, or layered distance |
-| Sky and atmosphere | Relit atmospheric field supporting the new material world |
+| Embedded groove | rock edge, sand ridge, pavement seam, facade joint |
+| Folded path | roofline, staircase, escalator, retaining wall, building edge |
+| Suspended span | valley, water opening, ridge, elevated road |
+| Threaded route | trunks, columns, vegetation rhythm, dense structural grid |
+| Liquid path | river, tide, reflection edge, wet street, shoreline |
 
-Do not generate until at least three major source zones have defined transformations.
-
-## 2. Separate Topology from Surface Fidelity
-
-Retain topology:
-
-- camera, crop, horizon, and perspective;
-- relative positions and scale relationships;
-- silhouette rhythm;
-- near–middle–far organization.
-
-Replace surface fidelity:
-
-- photographic plants, rock, concrete, facade, sand, road, railing, and water;
-- local texture, material, lighting response, and environmental rendering;
-- literal source objects when their world role has been transferred.
-
-Treat the input as a blueprint for a new world. Do not treat it as a photograph that needs minor beautification.
-
-## 3. Use the Target Example Correctly
-
-Load `../assets/shanshui-after.png` and supply it to the image-generation tool alongside the source.
-
-- Source image = composition and topology truth.
-- Target example = transformation-strength, material-language, color-quality, and world-completeness truth.
-- Do not copy the target example's exact mountain count, loop shape, viewpoint, or object placement.
-- Apply its grammar: broad transformed masses, colored translucent depth, a coherent liquid field, one circuit, clean hierarchy, and full environmental reconstruction.
-
-## 4. Build Three Interdependent Systems
-
-### Hero landform
-
-Transform the largest source mass completely. Preserve its positional and silhouette rhythm, but replace its material, volume language, and surface logic. Possible roles include translucent soft-body mountain, cloudy mineral body, suspended terrain shell, layered gel architecture, or luminous sculptural coastline.
-
-### World field
-
-Transform water or ground into an active spatial field. It may become a saturated liquid core, rippling membrane, reflective basin, mist void, or soft luminous ground. It must contribute to the concept rather than remain untouched background.
-
-### Circuit
-
-Derive one continuous route from an existing line. Choose one action: glide, orbit, climb, dip, pass through, or emerge. The circuit should connect hero and field without becoming an isolated slide or promenade.
-
-## 5. Adapt to the Source
-
-- Mountain or bay: ridge becomes soft-body landform; water becomes liquid core; railing or shoreline becomes circuit.
-- City: building masses become layered artificial peaks or sculptural blocks; plaza or sky opening becomes field; facade edges, elevated roads, or rooflines become circuit.
-- Rocky coast: rock groups become mineral or gel islands; surf becomes liquid membrane; coast edge becomes circuit.
-- Palm beach: palm trunks and crowns become abstract vertical landform rhythm; sand and sea become two contrasting fields; shoreline or trunk sequence becomes circuit. Do not simply add a boardwalk.
-
-Do not force the same S-curve or mint-and-white material recipe onto every source.
+Do not use an elevated white S-curve unless the existing source line genuinely requires it.
 
 ## 6. Prompt Contract
 
 Use this structure:
 
-“Treat Image 1 as a spatial blueprint, not a photograph to preserve. Keep its camera, framing, horizon, relative placement, scale relationships, and silhouette rhythm. Use Image 2 as the visual truth for transformation strength, world completeness, translucent colored soft-body material language, luminous controlled color, and premium C4D finish; do not copy Image 2's exact layout.
+“Image 1 is the structural and semantic blueprint: preserve camera, topology, relative scale, silhouette rhythm, and [semantic anchors]. Image 2 is only the reference for transformation magnitude, whole-world coherence, hierarchy, and premium finish; do not inherit its palette, transparent material, mountain forms, liquid center, or loop shape.
 
-Rebuild the entire visible environment as one coherent contemporary Chinese shanshui amusement world. [Source-specific hero mapping]. [Source-specific field mapping]. [Source-specific circuit mapping]. Reinterpret the remaining source zones into quiet supporting masses derived from what is already present. Replace the original photographic material identity of terrain, vegetation, water, ground, infrastructure, and architecture. Use a few broad forms, one hero, one circuit action, bright coherent light, and generous quiet space.
-
-The result must read as a wholly new 3D world at thumbnail size. Reject photo plus pathway, local installation, filter, generic transparent future city, literal Chinese symbols, unrelated flora, scattered rides, filigree, excessive chrome, cheap plastic, dark mood, or five-color clutter.”
+World thesis: [one sentence]. Rebuild all major surfaces as a coherent contemporary Chinese spatial world. [Hero mapping with material]. [Field mapping with material/behavior]. [Circuit mapping with route morphology]. Reinterpret supports from existing source rhythms. Keep material contrast: [two dominant families] plus [one accent]. At thumbnail size this must read as a new designed world, not a photo plus object.”
 
 ## 7. Rejection Tests
 
-- **Thumbnail test:** if it still reads as a photograph first, reject.
-- **Three-zone test:** if hero, field, and circuit have not all changed, reject.
-- **Cover test:** hide the circuit; if the rest is almost the original photo, reject.
-- **Surface test:** if more than roughly one third of major non-sky surfaces keep their original photographic identity, reject.
-- **Hierarchy test:** if the route is stronger than the hero landform, rebalance.
-- **Traceability test:** if a transformed mass has no source counterpart, remove it.
-- **Diversity test:** if a different source would produce the same white-and-mint S-curve world, remap the source.
-- **Restraint test:** if whole-world transformation was achieved by adding objects rather than replacing broad systems, simplify.
+- **Semantic test:** if the source category was needlessly converted into another category, reject.
+- **Material test:** if every large zone is aqua transparent resin, reject.
+- **Route test:** if the circuit reads as a standard scenic boardwalk, choose another morphology.
+- **World-thesis test:** if the statement works for another source, remap.
+- **Thumbnail test:** if it reads as a photograph first, reject.
+- **Cover test:** if hiding the circuit reveals an unchanged photo, reject.
+- **Hierarchy test:** if the route dominates the hero, rebalance.
+- **Traceability test:** if a major new mass has no source counterpart, remove it.
