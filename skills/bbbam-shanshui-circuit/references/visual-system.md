@@ -2,70 +2,51 @@
 
 ## Core Thesis
 
-Use the source as a spatial blueprint. Rebuild its visible world so the result feels surprising, emotionally rewarding, and structurally inevitable.
+Use the source as a spatial blueprint and a semantic inventory. Rebuild the visible world while keeping the source's underlying category logic: city as city, coast as coast, vegetation as growth rhythm, mountain as landform.
 
-## World Completeness
+## What the Example Reference Controls
 
-- Transform the whole scene, not one inserted object.
-- Preserve composition topology: viewpoint, horizon, relative placement, scale relationships, and silhouette rhythm.
-- Replace photographic surface identity across terrain, vegetation, water, ground, infrastructure, and light.
-- Keep one coherent world logic across foreground, middle ground, hero, and distance.
-- The before/after comparison should reveal the connection; the result does not need to look like an unedited version of the same place.
+The bundled bay result controls transformation scale, whole-scene coherence, hierarchy, clean finish, and emotional luminosity.
 
-## Hierarchy
+It does not prescribe turquoise, transparent gel, mountain forms, liquid centers, or elevated loops. Choose those only when the source and world thesis warrant them.
 
-- One broad hero landform or spatial body.
-- One continuous supporting circuit.
-- One designed field or liquid core.
-- Generous negative space and a few large shapes.
-- The route supports the hero. Do not let a white walkway become the whole concept.
-- Avoid filigree, scattered props, tiny rides, and decorative density.
+## World Hierarchy
 
-## Contemporary Chinese Spatial Logic
+- One source-derived hero body.
+- One designed field: liquid, plaza, fog, dune, basin, or atmospheric opening.
+- One supporting circuit.
+- A few broad forms and generous quiet space.
+- Keep the route subordinate to the hero; never use a white walkway as a substitute for a concept.
 
-Express Chinese aesthetics through:
+## Chinese Spatial Logic
 
-- layered near–middle–far depth;
-- borrowed scenery and framed distance;
-- winding approach and sequential reveal;
-- void/solid rhythm;
-- landscape understood as a navigable relationship.
+Use layered near–middle–far depth, framed distance, borrowed scenery, winding approach, sequential reveal, and void/solid rhythm. These are relationships, not icons. Do not force mountains, use literal pavilions, or add decorative flowers.
 
-Do not depend on pagodas, lanterns, dragons, calligraphy, random flowers, or realistic decorative planting.
+## Material Allocation
+
+Assign three different jobs:
+
+| Role | Purpose | Suitable families |
+|---|---|---|
+| Hero | strongest volume and emotional anchor | matte mineral, pearl ceramic, cloudy soft resin, woven membrane, satin enamel, controlled translucent gel |
+| Field | depth, reflection, atmosphere, or spatial calm | liquid membrane, mist, glazed ground, porous stone, soft light, reflective enamel |
+| Circuit | precise movement and human scale | satin aluminum, pearl ceramic, frosted resin, woven mesh, embedded luminous groove |
+
+Use two dominant material families and one accent. At least one large system must be matte, mineral, ceramic, woven, or satin rather than transparent. Do not give hero, field, supports, and circuit the same transparent treatment. Transparent colored volume is a choice for one focal system, not the default environment.
 
 ## Color
 
-Use clear, fresh, luminous, controlled relationships. Suitable families include celadon aqua, mineral cyan, mist blue, warm milk, tea green, translucent jade, peach coral, and a restrained acid-lime signal.
+Derive the color family from the source light and one emotional contrast:
 
-Use at most four roles:
+- blue-hour city: ink blue, pearl, restrained lilac, amber signal;
+- green mountain or garden: jade/tea, mist blue, warm milk, coral signal;
+- grey rocky coast: chalk, wet mineral blue, sea-glass green, rust or coral signal;
+- sunlit palm coast: sand milk, sea cyan, leaf green, peach signal.
 
-1. atmospheric field;
-2. hero body;
-3. circuit or secondary structure;
-4. small signal color.
-
-Colorful means depth and transparency within a controlled family, not five unrelated saturated hues.
-
-## Material
-
-Use two dominant families and one accent:
-
-- translucent colored soft-body resin or cloudy gel for source-derived terrain and planting masses;
-- interactive liquid membrane, luminous water, or deep clear color for the central field;
-- pearl ceramic, frosted white polymer, satin aluminum, or translucent structural resin for the circuit.
-
-Large translucent forms are allowed and may dominate when they replace mountains, trees, water, or architectural masses. Distinguish them from generic glass futurism:
-
-- desired: colored volume, soft deformation, internal depth, broad silhouette, delicate caustics, source-specific shape;
-- rejected: clear glass applied everywhere, excessive reflections, chrome filigree, sharp sci-fi towers, empty showroom aesthetics.
+Use at most four roles: atmospheric field, hero, secondary/circuit, and small signal. Colorful means controlled contrast, not a rainbow.
 
 ## Light and Finish
 
-- Bright diffuse daylight or luminous blue-hour atmosphere derived from the source.
-- Premium C4D-like clarity, coherent scale, accurate contact shadows, clean edges, and restrained caustics.
-- Surfaces must feel thick and physically designed, not like transparent overlays.
-- Avoid dark cyberpunk lighting, muddy color, harsh bloom, dirty grunge, thin plastic, and low-resolution texture.
+Use premium C4D-like clarity, coherent scale, clean surfaces, accurate contact shadows, and restrained caustics. Let lighting follow the source mood: blue-hour can remain blue-hour, storm coast can retain its soft overcast atmosphere, bright coast can remain sunlit.
 
-## Restraint
-
-Transforming the whole world does not mean adding many objects. Prefer total material and geometric replacement through three broad systems: hero landform, field, and circuit.
+Avoid generic showroom glass, excessive reflections, chrome filigree, dark cyberpunk, harsh bloom, dirty grunge, thin plastic, and low-resolution texture.
