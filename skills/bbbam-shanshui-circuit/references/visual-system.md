@@ -4,7 +4,7 @@
 
 This skill has one non-negotiable visual signature:
 
-> **Continuous colored soft-body world + milk-pearl ribbon circuit + luminous liquid/mist field.**
+> **Continuous colored soft-body world + luminous liquid/mist field + optional source-derived milk-pearl contour or ribbon.**
 
 The reference example controls the visual language and transformation scale. A source can alter its palette and the shapes that are transformed, but it must not change this core material grammar.
 
@@ -25,22 +25,22 @@ The intended feeling is smooth, thick, rich and touchable — like refined blown
 Every image contains:
 
 1. **Hero body** — one large source-derived continuous translucent formation.
-2. **Field/core** — a bright liquid basin, sea, mist opening, pearly ground, or light void derived from the source's open zone.
-3. **Circuit** — one milk-pearl, frosted-resin, or pearl-ceramic ribbon following an existing source line.
-4. **Quiet support** — a restrained set of broad secondary source-derived volumes that carries the source's rhythm.
+2. **Field/core** — a bright liquid, mist opening, pearly ground, or light void that occupies the same visual role as the source's open zone.
+3. **Quiet support** — a restrained set of broad secondary source-derived volumes that carries the source's rhythm.
+4. **Optional movement element** — a milk-pearl ribbon or contour only when the source has an actual strong line worth transforming.
 
-Keep the route subordinate to the hero. Keep ample light and air. The hero, field, and circuit must all feel like one designed world.
+Preserve the original screen map: sky, horizon, foreground, and main bodies stay in their source positions. Keep ample light and air. A movement element is never required, and never substitutes for the source composition.
 
 ## Fixed Materials
 
 | System | Fixed treatment | Role |
 |---|---|---|
 | Hero and supports | thick colored translucent cloudy resin or blown-glass gel; smooth continuous NURBS-like skin with broad connected contour folds, inset channels, or layered membranes | transformed source bodies |
-| Circuit | one wide milk-white pearl-ceramic or frosted-resin ribbon; long radius turns, with only source-derived splits or joins | movement and human scale |
-| Field/core | broad saturated clear liquid, mist glaze, pearly sand plane, or light void with 2–4 calm flowing strata or contour currents | calm emotional center |
-| Accent | one or two small peach, coral, amber, or lilac signals | focus, never clutter |
+| Optional movement | milk-white pearl-ceramic or frosted-resin ribbon **only when source-derived**; otherwise an embedded contour/current or absence | local directional logic |
+| Field/core | broad saturated clear liquid, mist glaze, pearly sand plane, or light void with 2–4 calm flowing strata or contour currents, in the source's original open zone | calm emotional center |
+| Accent | optional and source-derived; never a default sphere or prop | focus, never clutter |
 
-Do not switch to matte stone, enamel city, woven vegetation, rough mineral realism, chrome machinery, or generic glass-future architecture. Do not use faceted crystal, bubbly resin, repeated glass drops, leaf-like microgeometry, granular sand, liquid-noise texture, or visually empty single-plane minimalism.
+Do not switch to matte stone, enamel city, woven vegetation, rough mineral realism, chrome machinery, or generic glass-future architecture. Do not use faceted crystal, bubbly resin, repeated glass drops, leaf-like microgeometry, granular sand, liquid-noise texture, visually empty single-plane minimalism, generic looped roads, or default peach spheres.
 
 ## Source-Led Color
 
