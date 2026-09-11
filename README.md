@@ -12,7 +12,7 @@
 
 | 原图 | 生成图 |
 |---|---|
-| ![山海回路原图](skills/bbbam-shanshui-circuit/assets/shanshui-before.png) | ![山海回路生成图](skills/bbbam-shanshui-circuit/assets/shanshui-after.png) |
+| ![山海回路原图](skills/bbbam-shanshui-circuit/assets/shanshui-before-readme.jpg) | ![山海回路生成图](skills/bbbam-shanshui-circuit/assets/shanshui-after-readme.jpg) |
 
 它不是在风景上添加亭台、灯笼和花，而是让原图已有的空间关系变成“游乐机制”：路径可以滑行、环绕、穿越或浮起；国风来自山水层次、留白、借景和曲折动线。
 
@@ -28,7 +28,7 @@
 
 | 原图 | 生成图 |
 |---|---|
-| ![供物机器原图](skills/bbbam-offering-machine/assets/offering-before.png) | ![供物机器生成图](skills/bbbam-offering-machine/assets/offering-after.png) |
+| ![供物机器原图](skills/bbbam-offering-machine/assets/offering-before-readme.jpg) | ![供物机器生成图](skills/bbbam-offering-machine/assets/offering-after-readme.jpg) |
 
 它不是普通产品精修，也不是把物品塞进复杂机器。每次只选择一种情绪引擎——安慰、奖励、庆祝、怀念、渴望或日常仪式——再用原物已有结构让它发生。
 
